@@ -3,7 +3,87 @@ guid: 356ac9493df97754aa1ca5a789bde4dd
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 150b0add5d6b5cd4ea2065b6bbc3d39e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL
+    second: {fileID: 2100000, guid: f6cc61122cb77cb40aa4e19cd49db460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Placa_Cemento
+    second: {fileID: 2100000, guid: b4f557bcbfeef9b43afdaf80fd0ca469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puertagris
+    second: {fileID: 2100000, guid: 09d6991bc9281b045834119cc5f4537f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo_bloque6
+    second: {fileID: 2100000, guid: bf66fe53412515948b78ae21d5ecc6b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ventana_asensor
+    second: {fileID: 2100000, guid: d53ef1453b5d7564db8a52d3dd9079fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 4194e0b3e22d87340aa49f779b227301, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: 597bf55e7987b764e84b44aabc7ff5ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 4b6e1803a63907e47a44d128aef07654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 656b7213454e8934c8f4d82fff17eeba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: f4852c9bdeee3e2458f54de8a09aa3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pisoRampa2
+    second: {fileID: 2100000, guid: b99a53ef4cc567a489e87e064e1c9d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pisoRampadiagonal1
+    second: {fileID: 2100000, guid: 80cd29589da385940b185448d47c2f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pisoRampadiagonal_4
+    second: {fileID: 2100000, guid: 90363b2826c887045995df12ba843ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pisoRampadiagonal_d
+    second: {fileID: 2100000, guid: 7016169853eafcb4d884fcea67eb9912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: placa_camino
+    second: {fileID: 2100000, guid: 1a7c1a9054f4ee043882a30d79717fa3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -34,9 +114,9 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 10
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
@@ -85,7 +165,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 10
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
