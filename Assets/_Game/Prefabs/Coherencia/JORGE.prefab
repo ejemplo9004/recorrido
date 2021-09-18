@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!65 &3930606790366941401
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3441599501022707697}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 818.5335, y: 532.20355, z: 2035.8611}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3930606788701206286
 GameObject:
   m_ObjectHideFlags: 0
@@ -11,6 +24,7 @@ GameObject:
   - component: {fileID: 3930606788701206281}
   - component: {fileID: 3930606788701206283}
   - component: {fileID: 3930606788701206280}
+  - component: {fileID: 3930606790366941400}
   m_Layer: 0
   m_Name: CARRO_CEDAN (1)
   m_TagString: Untagged
@@ -81,6 +95,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3930606790366941400
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3930606788701206286}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 818.5334, y: 532.20355, z: 2035.8606}
+  m_Center: {x: -0.00390625, y: 0, z: -0.001953125}
 --- !u!1 &3930606789786640552
 GameObject:
   m_ObjectHideFlags: 0
@@ -7124,6 +7151,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0697cdf5ce169545a4bdb048667825a, type: 3}
+--- !u!1 &3441599501022707697 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7399600486345083284, guid: c0697cdf5ce169545a4bdb048667825a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3930606790542707101}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3532769830441856630 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
