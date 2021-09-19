@@ -89,7 +89,7 @@ Material:
     - _GerstnerElevationFactor: 0.149
     - _GerstnerEnabled: 1
     - _GerstnerIntensity: 0.1
-    - _GerstnerNormalIntensity: 2
+    - _GerstnerNormalIntensity: 8
     - _GerstnerPlanarNormalIntensity: 0.08
     - _GerstnerVertexIntensity: 0.2
     - _GerstnerVerticalIntensity: 0.148
@@ -167,9 +167,10 @@ Material:
     - _GSpeed: {r: -3, g: 2.34, b: 1.71, a: 3.37}
     - _GSteepness: {r: 4, g: 3, b: 4, a: 3}
     - _GerstnerSecondaryWaves: {r: 0, g: 4.3, b: 0.3, a: 1.65}
-    - _GerstnerVertexIntensity: {r: 0.3, g: 0.45, b: 0.3, a: 0}
+    - _GerstnerVertexIntensity: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.0470588, g: 0.0470588, b: 0.0470588, a: 1}
     - _Speed: {r: 1.23, g: -1.49, b: 0.6, a: 0}
     - _TranslucencyColor: {r: 0.34775084, g: 0.9589129, b: 0.9852941, a: 1}
     - _UnderWaterReflCol: {r: 0.6251192, g: 0.75248003, b: 0.79454404, a: 1}
     - _UpperColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

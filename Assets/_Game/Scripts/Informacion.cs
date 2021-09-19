@@ -11,6 +11,8 @@ public class Informacion : MonoBehaviour
     public string texto;
     public Sprite imagen;
 
+    float tiempoClic;
+
     private void Start()
     {
         GlobosControl.singleton.globos.Add(this);
@@ -26,11 +28,15 @@ public class Informacion : MonoBehaviour
 		return (results.Count > 0);
 	}
 
-    private void OnMouseDown()
+    private void OnMouseUp()
     {
         if (!MouseEnUI())
         {
-            InfoControl.singleton.Activar(texto, codigo,titulo,imagen);
+			if (Time.time-tiempoClic < 0.3f)
+			{
+                InfoControl.singleton.Activar(texto, codigo, titulo, imagen);
+            }
+            tiempoClic = Time.time;
         }
     }
 }
