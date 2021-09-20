@@ -24226,6 +24226,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: prCamilo
       objectReference: {fileID: 0}
+    - target: {fileID: 530864529929026972, guid: e94bd2d21c6fb314fa5b674d01ba8157,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1039819937610160186, guid: e94bd2d21c6fb314fa5b674d01ba8157,
         type: 3}
       propertyPath: m_RootOrder
