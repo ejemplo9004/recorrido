@@ -98,6 +98,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PORTERIA_VOLADOR
       objectReference: {fileID: 0}
+    - target: {fileID: 5377986728937091731, guid: 356ac9493df97754aa1ca5a789bde4dd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.39
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -7456968544334006397, guid: 356ac9493df97754aa1ca5a789bde4dd, type: 3}
     - {fileID: -369818243438927940, guid: 356ac9493df97754aa1ca5a789bde4dd, type: 3}
