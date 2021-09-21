@@ -48,13 +48,13 @@ public class ControlModos : MonoBehaviour
         {
             case 0:
                 modo0.Invoke();
-                CambiarEstado1(false);
                 CambiarEstado0(true);
+                CambiarEstado1(false);
                 break;
             case 1:
                 modo1.Invoke();
-                CambiarEstado0(false);
                 CambiarEstado1(true);
+                CambiarEstado0(false);
                 break;
             default:
                 break;

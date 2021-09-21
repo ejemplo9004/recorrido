@@ -5,6 +5,7 @@ using UnityEngine;
 public class ClicMoverPersonaje : MonoBehaviour
 {
     public Transform jugador;
+    public GameObject prefabJugador;
     public float tiempoClic;
     public Camera camara;
 
@@ -41,7 +42,11 @@ public class ClicMoverPersonaje : MonoBehaviour
             if (hitdist.transform.CompareTag("Piso"))
             {
                 Vector3 targetPoint = hitdist.point + Vector3.up;
-                jugador.position = targetPoint;
+                //jugador.position = targetPoint;
+                Destroy(jugador.gameObject);
+                GameObject go = Instantiate(prefabJugador, targetPoint, Quaternion.identity);
+                jugador = go.transform;
+                ControlModos.singleton.elementosM0[0] = jugador.gameObject;
             }
 
         }
