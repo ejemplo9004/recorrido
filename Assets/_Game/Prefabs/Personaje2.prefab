@@ -2652,3 +2652,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4f0336c1e768e44a980ffa70cfce78c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  camara: {fileID: 4556885178357783197}

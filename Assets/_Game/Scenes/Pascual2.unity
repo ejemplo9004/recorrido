@@ -18446,9 +18446,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   globos: []
-  tGlobos: {fileID: 0}
+  tGlobos: {fileID: 984671283}
   pos0: {x: 0, y: 0, z: 0}
   pos1: {x: 0, y: 30, z: 0}
+  camaraActiva: {fileID: 0}
 --- !u!114 &845001867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21430,6 +21431,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 833234141052525857, guid: 9b607f8e47c781b48b20362f059a3a51,
     type: 3}
   m_PrefabInstance: {fileID: 983987024}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &984671283 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1811308261432857946, guid: 84a6c04bdca0afb43a4e56df4f41b60b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811308260381928835}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &985609908
 PrefabInstance:
