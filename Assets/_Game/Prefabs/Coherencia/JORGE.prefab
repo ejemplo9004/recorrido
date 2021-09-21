@@ -4651,7 +4651,7 @@ PrefabInstance:
     - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
       propertyPath: titulo
-      value: "Laboratorio de Transformaci\xF3n Textil"
+      value: "BLOQUE 16. Laboratorio de Transformaci\xF3n Textil"
       objectReference: {fileID: 0}
     - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -4677,6 +4677,97 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 188.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
+--- !u!1001 &1811308260429165098
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 18 mantiene su vocaci\xF3n como taller de m\xE1quinas y herramientas,
+        es una de las 12 naves del complejo de los talleres que conserva casi intacta
+        la configuraci\xF3n original de su planta con la disposici\xF3n en dos l\xEDneas
+        de los tornos y otras m\xE1quinas de uso mec\xE1nico, planta abierta donde
+        se destaca las techumbre en madera que refuerzan el valor patrimonial de
+        todo el complejo y mezzanine en la parte superior del acceso, es reconocido
+        por sus de procesos de manufactura por arranque de viruta. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 153efaa4c4ebe9f469c47e43813bc2c4,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "BLOQUE 18. TALLER DE M\xC1QUINAS Y HERRAMIENTAS CONVENCIONALES-MEC"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -26.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.992
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 136.11
       objectReference: {fileID: 0}
     - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -5283,7 +5374,7 @@ PrefabInstance:
         type: 3}
       propertyPath: imagen
       value: 
-      objectReference: {fileID: 21300000, guid: b03b125455abc224e8c7fb1379e7f083,
+      objectReference: {fileID: 21300000, guid: 0e1b1d1bb736ae14e8fe1ad81db06a80,
         type: 3}
     - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -5313,7 +5404,7 @@ PrefabInstance:
     - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 208.74
+      value: 208.309
       objectReference: {fileID: 0}
     - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -5898,6 +5989,98 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1811308261251508833}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1811308261352769718
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "El centro de investigaci\xF3n y desarrollo de soldadura surgi\xF3 como
+        un espacio donde estudiantes de diferentes programas acad\xE9micos, aprenden
+        los diferentes tipos, t\xE9cnicas, m\xE9todos de soldadura; inicialmente,
+        se contaba con m\xE1quinas y elementos b\xE1sicos para el aprendizaje. Con
+        el paso del tiempo surgi\xF3 la necesidad de readecuar el espacio para las
+        pr\xE1cticas y modernizar los equipos y m\xE1quinas garantizando as\xED el
+        buen hacer de las pr\xE1cticas de soldadura."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: acd0736e8a3e76a49b0888f362eacbb9,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "BLOQUE 17. CENTRO DE INVESTIGACI\xD3N Y DESARROLLO EN SOLDADURA \u2013
+        CIDES."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.992
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 139.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
 --- !u!1001 &1811308261388783469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6357,7 +6540,7 @@ PrefabInstance:
     - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
       propertyPath: titulo
-      value: " Laboratorio de F\xEDsica y Qu\xEDmica "
+      value: "BLOQUE 16. Laboratorio de F\xEDsica y Qu\xEDmica "
       objectReference: {fileID: 0}
     - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -6382,7 +6565,7 @@ PrefabInstance:
     - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 185.27
+      value: 184.53
       objectReference: {fileID: 0}
     - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
         type: 3}
@@ -12833,15 +13016,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0697cdf5ce169545a4bdb048667825a, type: 3}
---- !u!1 &3441599501449272158 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -7399600486345083284, guid: c0697cdf5ce169545a4bdb048667825a,
-    type: 3}
-  m_PrefabInstance: {fileID: 3930606790116142386}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3532769830868421337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3930606790116142386}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3441599501449272158 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7399600486345083284, guid: c0697cdf5ce169545a4bdb048667825a,
     type: 3}
   m_PrefabInstance: {fileID: 3930606790116142386}
   m_PrefabAsset: {fileID: 0}
@@ -14244,15 +14427,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0697cdf5ce169545a4bdb048667825a, type: 3}
---- !u!4 &3532769830441856630 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
-    type: 3}
-  m_PrefabInstance: {fileID: 3930606790542707101}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &3441599501022707697 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7399600486345083284, guid: c0697cdf5ce169545a4bdb048667825a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3930606790542707101}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3532769830441856630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
     type: 3}
   m_PrefabInstance: {fileID: 3930606790542707101}
   m_PrefabAsset: {fileID: 0}
@@ -14396,6 +14579,11 @@ PrefabInstance:
         y equipado con nuevos hornos que permiten realizar todo tipo de tratamiento
         t\xE9rmico sobre materiales y as\xED modificar sus propiedades mec\xE1nicas."
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177548796355304, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: "Bloque 19. CENTRO DE INVESTIGACI\xD3N Y DESARROLLO EN Materialograf\xEDa"
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177548796355311, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14431,6 +14619,11 @@ PrefabInstance:
         hasta la confecci\xF3n de prendas textiles. En el a\xF1o 2018 se adiciono
         al laboratorio una sala con computadores que permiten realizar pr\xE1cticas
         con la asistencia de softwares especializados. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177548962703312, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: Bloque 14. LABORATORIO TEXTIL.
       objectReference: {fileID: 0}
     - target: {fileID: 6002177548962703319, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -14654,12 +14847,12 @@ PrefabInstance:
     - target: {fileID: 6002177549577687843, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -166.55
+      value: -166.466
       objectReference: {fileID: 0}
     - target: {fileID: 6002177549577687843, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 42.1
+      value: 42.047
       objectReference: {fileID: 0}
     - target: {fileID: 6002177549577687843, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -14736,6 +14929,11 @@ PrefabInstance:
         que corresponde a la parte final de la cadena productiva de un producto.
         El laboratorio ha sido equipado con todos los elementos necesarios para la
         ejecuci\xF3n de pr\xE1cticas de log\xEDstica."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549798524228, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: "Bloque 16. laboratorio de log\xEDstica integral "
       objectReference: {fileID: 0}
     - target: {fileID: 6002177549871207452, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -14997,6 +15195,33 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 60.2
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177550788681531, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -169.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550788681532, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El Bloque 6, es el edificio acad\xE9mico de m\xE1s reciente construcci\xF3n
+        que ayuda a configurar un nuevo desarrollo formal dentro del campus que siempre
+        gir\xF3 en torno a los talleres, es parte de la apuesta que se defini\xF3
+        en el API como nuevos desarrollos, y est\xE1 cumpliendo a cabalidad con su
+        papel de epicentro de las actividades acad\xE9micas.  Adicionalmente es una
+        mejora que su estructura y dise\xF1o la hacen amigable con el medio ambiente
+        por la ubicaci\xF3n de paneles solares y su ventilaci\xF3n natural."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550788681532, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 470dd7142f390f047bf92db4c71d1d17,
+        type: 3}
+    - target: {fileID: 6002177550788681532, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: BLOQUE 6.  ACADEMICO.
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177550791187073, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15011,6 +15236,11 @@ PrefabInstance:
         que incluyo la compra e instalaci\xF3n de m\xE1quinas de control num\xE9rico
         computarizado que aportan al desarrollo de manufactura asistida por computadora
         y m\xE1quinas de simulaci\xF3n avanzada de manufactura."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550791187078, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: "Bloque 15.Laboratorio de Desarrollo e Investigaci\xF3n"
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550871242456, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15050,15 +15280,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b614cce90f1b1414b9db167a568089eb, type: 3}
---- !u!4 &1811308261397551670 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
-    type: 3}
-  m_PrefabInstance: {fileID: 6879757405434160307}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1811308261432857946 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5069577278236373481, guid: b614cce90f1b1414b9db167a568089eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 6879757405434160307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308261397551670 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
     type: 3}
   m_PrefabInstance: {fileID: 6879757405434160307}
   m_PrefabAsset: {fileID: 0}
