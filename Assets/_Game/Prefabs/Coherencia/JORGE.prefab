@@ -4303,15 +4303,128 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3930606790235122634}
     m_Modifications:
+    - target: {fileID: 2043006103226879005, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Es una de las especies m\xE1s subvalorada y perseguida de la fauna
+        local. La chucha no es una rata grande, en realidad d es un marsupial como
+        los canguros, tienen una bolsa especial llamada marsupio donde protege por
+        unos 50 d\xEDas a sus cr\xEDas. Sus cr\xEDas nacen luego de 14 d\xEDas de
+        gestaci\xF3n, pero son tan peque\xF1as que deben terminar de formarse en
+        la bolsa de la madre. Dos meses despu\xE9s las chuchas juveniles \u201Cnacen
+        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103226879005, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 40e230b334c72c9468584a28d03cddf3,
+        type: 3}
+    - target: {fileID: 2043006103226879005, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: "Zarig\xFCella_ Didelphismarsupialis "
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103226879006, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.38059092
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103302060605, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103302060605, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006103302060605, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_ Ara Macao '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103348216909, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "El gato dom\xE9stico, llamado popularmente gato, y de forma coloquial
+        minino,  michino,  michi,  micho,  mizo,  miz,  morro\xF1o o morrongo,  entre
+        otros nombres, es un mam\xEDfero carn\xEDvoro de la familia Felidae. Es una
+        subespecie domesticada por la convivencia con el ser humano. El nombre actual
+        en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
+        alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
+        lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.   "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103348216909, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 9fcfa0de79afb2842a06a794cfab3dba,
+        type: 3}
+    - target: {fileID: 2043006103348216909, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Gato_ Felis silvestris catus
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103349921239, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103349921239, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006103349921239, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_ Ara Macao '
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103372841525, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 4.780001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].x
+      value: 6.7657504
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].y
+      value: -6.159915
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].z
+      value: -0.29971623
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].x
+      value: 2.277668
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].y
+      value: -6.8438797
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103372841527, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].z
+      value: -2.214447
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103466791943, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4321,17 +4434,17 @@ PrefabInstance:
     - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.023
+      value: -0.019
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.08
+      value: -0.04
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.226
+      value: -0.061
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4368,10 +4481,40 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -84.434
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2289
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2289
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2289
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -460.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 31.923
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757202, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -142.68
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103566757212, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.378
+      value: -8.05
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103566757212, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4418,10 +4561,136 @@ PrefabInstance:
       propertyPath: editorData._bezierPath.points.Array.data[34].z
       value: 0.1721754
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103576561375, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "El gato dom\xE9stico, llamado popularmente gato, y de forma coloquial
+        minino,  michino,  michi,  micho,  mizo,  miz,  morro\xF1o o morrongo,  entre
+        otros nombres, es un mam\xEDfero carn\xEDvoro de la familia Felidae. Es una
+        subespecie domesticada por la convivencia con el ser humano. El nombre actual
+        en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
+        alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
+        lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103576561375, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 9fcfa0de79afb2842a06a794cfab3dba,
+        type: 3}
+    - target: {fileID: 2043006103576561375, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Gato Felis silvestris catus
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103683520124, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide hasta 2m de longitud de cabeza acola. Se alimentan de plantas
+        (hoja, flores y frutas); se reproducen por medio de huevos. Su piel est\xE1
+        recubierta de peque\xF1as escamas, tienen una excelente visi\xF3n y pueden
+        ver cuerpos, sombras y movimiento a grandes distancias."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103683520124, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 4616499c010bd48448b582d2483e9ed4,
+        type: 3}
+    - target: {fileID: 2043006103683520124, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Iguana_ Iguana iguana '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306341, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Es una de las especies m\xE1s subvalorada y perseguida de la fauna
+        local. La chucha no es una rata grande, en realidad d es un marsupial como
+        los canguros, tienen una bolsa especial llamada marsupio donde protege por
+        unos 50 d\xEDas a sus cr\xEDas. Sus cr\xEDas nacen luego de 14 d\xEDas de
+        gestaci\xF3n, pero son tan peque\xF1as que deben terminar de formarse en
+        la bolsa de la madre. Dos meses despu\xE9s las chuchas juveniles \u201Cnacen
+        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306341, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 40e230b334c72c9468584a28d03cddf3,
+        type: 3}
+    - target: {fileID: 2043006103703306341, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: "Zarig\xFCella_ Didelphismarsupialis "
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103703306342, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 7.3722153
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306342, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.01621013
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306342, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.84698325
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306342, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.08153114
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103703306342, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.52508026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103716380992, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103716380992, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006103716380992, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_Ara Macao '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103741643869, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "El gato dom\xE9stico, llamado popularmente gato, y de forma coloquial
+        minino,  michino,  michi,  micho,  mizo,  miz,  morro\xF1o o morrongo,  entre
+        otros nombres, es un mam\xEDfero carn\xEDvoro de la familia Felidae. Es una
+        subespecie domesticada por la convivencia con el ser humano. El nombre actual
+        en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
+        alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
+        lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103741643869, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 9fcfa0de79afb2842a06a794cfab3dba,
+        type: 3}
+    - target: {fileID: 2043006103741643869, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: ' Gato_ Felis silvestris catus '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103791239370, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4463,10 +4732,87 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 114.445
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103860378921, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "La longitud total es de aproximadamente 37a46 cm, posee un plumaje
+        color amarillo casta\xF1o claro y las alas casta\xF1o oscuro. Su canto es
+        muy caracter\xEDstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103860378921, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f4e2d3a6ab535a940826e5985baabb56,
+        type: 3}
+    - target: {fileID: 2043006103860378921, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Piguao caracara_ Milvagochimachima '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103878146312, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "La longitud total es de aproximadamente 37a46 cm, posee un plumaje
+        color amarillo casta\xF1o claro y las alas casta\xF1o oscuro. Su canto es
+        muy caracter\xEDstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103878146312, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f4e2d3a6ab535a940826e5985baabb56,
+        type: 3}
+    - target: {fileID: 2043006103878146312, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Piguao caracara_ Milvagochimachima '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103907661507, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Alcanza una longitud cabeza \u2013 cuerpo de 10 a 28 cm, y la cola
+        de 14 a 28 cm de largo. Pesa entre 212 y 520 gramos. El color del pelo del
+        cuerpo var\xEDa en las 30 subespecies. La coloraci\xF3n est\xE1 de todos
+        modos marcada por un color marr\xF3n casta\xF1o rojizo oscuro. Adopta una
+        posici\xF3n sentada y manipulan el alimento con los miembros anteriores produciendo
+        un sonido continuo y agudo. Prefieren los frutos grandes y especialmente
+        semillas de palmas y legumbres. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103907661507, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 3a5f59bdba1cead4d8aa5cb01495b1b3,
+        type: 3}
+    - target: {fileID: 2043006103907661507, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Ardilla colirroja_ Sciurus_granatensis '
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103907661508, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 7.372223
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103911601379, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103911601379, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006103911601379, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_ Ara Macao '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103944222816, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4483,6 +4829,50 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -160.697
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618601, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.03198653
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618601, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.85015917
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618601, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.051997997
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618601, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.52297467
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618612, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide hasta 2m de longitud de cabeza acola. Se alimentan de plantas
+        (hoja, flores y frutas); se reproducen por medio de huevos. Su piel est\xE1
+        recubierta de peque\xF1as escamas, tienen una excelente visi\xF3n y pueden
+        ver cuerpos, sombras y movimiento a grandes distancias."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103949618612, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 4616499c010bd48448b582d2483e9ed4,
+        type: 3}
+    - target: {fileID: 2043006103949618612, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Iguana_ Iguana iguana '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.196228
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -4493,20 +4883,230 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 15.648537
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.44574633
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.14386633
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.88240415
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.04444755
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103977738475, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Alcanza una longitud cabeza \u2013 cuerpo de 10 a 28 cm, y la cola
+        de 14 a 28 cm de largo. Pesa entre 212 y 520 gramos. El color del pelo del
+        cuerpo var\xEDa en las 30 subespecies. La coloraci\xF3n est\xE1 de todos
+        modos marcada por un color marr\xF3n casta\xF1o rojizo oscuro. Adopta una
+        posici\xF3n sentada y manipulan el alimento con los miembros anteriores produciendo
+        un sonido continuo y agudo. Prefieren los frutos grandes y especialmente
+        semillas de palmas y legumbres. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103977738475, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 3a5f59bdba1cead4d8aa5cb01495b1b3,
+        type: 3}
+    - target: {fileID: 2043006103977738475, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Ardilla colirroja Sciurus_granatensis
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103977738476, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 6.5092263
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103989999720, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "La longitud total es de aproximadamente 37a46 cm, posee un plumaje
+        color amarillo casta\xF1o claro y las alas casta\xF1o oscuro. Su canto es
+        muy caracter\xEDstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103989999720, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f4e2d3a6ab535a940826e5985baabb56,
+        type: 3}
+    - target: {fileID: 2043006103989999720, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Piguao caracara_ Milvagochimachima '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104002676230, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Alcanza una longitud cabeza \u2013 cuerpo de 10 a 28 cm, y la cola
+        de 14 a 28 cm de largo. Pesa entre 212 y 520 gramos. El color del pelo del
+        cuerpo var\xEDa en las 30 subespecies. La coloraci\xF3n est\xE1 de todos
+        modos marcada por un color marr\xF3n casta\xF1o rojizo oscuro. Adopta una
+        posici\xF3n sentada y manipulan el alimento con los miembros anteriores produciendo
+        un sonido continuo y agudo. Prefieren los frutos grandes y especialmente
+        semillas de palmas y legumbres. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104002676230, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 3a5f59bdba1cead4d8aa5cb01495b1b3,
+        type: 3}
+    - target: {fileID: 2043006104002676230, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Ardilla colirroja Sciurus_granatensis '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104002676283, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 7.3722153
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[1].x
+      value: 8.576172
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[1].z
+      value: 6.7398376
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].x
+      value: 6.7907715
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].y
+      value: -7.6123466
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[2].z
+      value: -0.28903198
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].x
+      value: 2.277676
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].y
+      value: -7.112706
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[4].z
+      value: -2.2144544
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].x
+      value: -4.312341
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].y
+      value: -6.0738373
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].z
+      value: 3.676804
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].x
+      value: -5.658127
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].y
+      value: -6.0730915
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].z
+      value: 5.874939
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].x
+      value: 0.2373352
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].z
+      value: 12.488586
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].x
+      value: 4.20356
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].y
+      value: -5.7540975
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].z
+      value: 8.779586
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[38].x
+      value: 5.2577834
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[38].y
+      value: -6.096081
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104098840033, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[38].z
+      value: 8.416407
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006104098840047, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.0000076293945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104108132135, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "La longitud total es de aproximadamente 37a46 cm, posee un plumaje
+        color amarillo casta\xF1o claro y las alas casta\xF1o oscuro. Su canto es
+        muy caracter\xEDstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104108132135, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f4e2d3a6ab535a940826e5985baabb56,
+        type: 3}
+    - target: {fileID: 2043006104108132135, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Piguao caracara_ Milvagochimachima '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104115237722, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4525,17 +5125,42 @@ PrefabInstance:
     - target: {fileID: 2043006104115237722, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Guacamaya bandera
+      value: 'Guacamaya bandera_ Ara Macao '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.2668724
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8307042
+      value: 1.8302636
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.703911
+      value: 15.701195
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4524164
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.08599296
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8875903
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.010396718
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4567,6 +5192,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 178.939
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006104166891442, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Es una de las especies m\xE1s subvalorada y perseguida de la fauna
+        local. La chucha no es una rata grande, en realidad d es un marsupial como
+        los canguros, tienen una bolsa especial llamada marsupio donde protege por
+        unos 50 d\xEDas a sus cr\xEDas. Sus cr\xEDas nacen luego de 14 d\xEDas de
+        gestaci\xF3n, pero son tan peque\xF1as que deben terminar de formarse en
+        la bolsa de la madre. Dos meses despu\xE9s las chuchas juveniles \u201Cnacen
+        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104166891442, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 40e230b334c72c9468584a28d03cddf3,
+        type: 3}
+    - target: {fileID: 2043006104166891442, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: "Zarig\xFCella_ Didelphismarsupialis "
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: texto
@@ -4584,7 +5231,237 @@ PrefabInstance:
     - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Guacamaya bandera
+      value: Guacamaya bandera_Ara Macao
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104292925734, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "La longitud total es de aproximadamente 37a46 cm, posee un plumaje
+        color amarillo casta\xF1o claro y las alas casta\xF1o oscuro. Su canto es
+        muy caracter\xEDstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104292925734, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f4e2d3a6ab535a940826e5985baabb56,
+        type: 3}
+    - target: {fileID: 2043006104292925734, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Piguao caracara_ Milvagochimachima '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104296739637, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Es una de las especies m\xE1s subvalorada y perseguida de la fauna
+        local. La chucha no es una rata grande, en realidad d es un marsupial como
+        los canguros, tienen una bolsa especial llamada marsupio donde protege por
+        unos 50 d\xEDas a sus cr\xEDas. Sus cr\xEDas nacen luego de 14 d\xEDas de
+        gestaci\xF3n, pero son tan peque\xF1as que deben terminar de formarse en
+        la bolsa de la madre. Dos meses despu\xE9s las chuchas juveniles \u201Cnacen
+        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse."
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104296739637, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 40e230b334c72c9468584a28d03cddf3,
+        type: 3}
+    - target: {fileID: 2043006104296739637, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: "Zarig\xFCella Didelphismarsupialis "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[1].x
+      value: 8.5761595
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[1].z
+      value: 6.7398434
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[5].z
+      value: -0.35980225
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[6].z
+      value: 0.7522583
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[7].z
+      value: 2.1186197
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[11].y
+      value: -1.7284908
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[11].z
+      value: 6.4430237
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[13].x
+      value: -8.619432
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[13].y
+      value: -2.1059651
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[13].z
+      value: 12.3132305
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[17].x
+      value: -11.972183
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[17].z
+      value: 18.474152
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[19].x
+      value: -12.024692
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[19].y
+      value: -0.06337775
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[19].z
+      value: 18.990534
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[20].x
+      value: -9.975944
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[20].y
+      value: -0.31817132
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[20].z
+      value: 18.800505
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[21].z
+      value: 18.844482
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[22].z
+      value: 18.987854
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[23].x
+      value: -9.055607
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[23].y
+      value: -0.52449095
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[23].z
+      value: 17.53284
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[25].x
+      value: -6.7311325
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[25].z
+      value: 17.216827
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[26].z
+      value: 17.500793
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[27].z
+      value: 16.81073
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[28].z
+      value: 16.741997
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].x
+      value: 0.23734283
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].z
+      value: 12.488617
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].x
+      value: 4.186374
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].y
+      value: -1.677297
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].z
+      value: 8.795629
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[35].z
+      value: 12.722137
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[37].x
+      value: 7.078058
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[37].y
+      value: -1.6924833
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[37].z
+      value: 8.851494
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[38].x
+      value: 5.2577744
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104398635876, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4603,7 +5480,7 @@ PrefabInstance:
     - target: {fileID: 2043006104398635876, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Guacamaya bandera
+      value: 'Guacamaya bandera_ Ara Macao '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104500910176, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4614,6 +5491,166 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.0000076293945
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[5].x
+      value: -1.8086729
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[5].y
+      value: 0.004316747
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[5].z
+      value: -0.43275213
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[6].x
+      value: -2.4319458
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[6].y
+      value: 0.15419197
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[6].z
+      value: 0.7522583
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[7].x
+      value: -3.1704712
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[7].y
+      value: 0.3317814
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[7].z
+      value: 2.156395
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].x
+      value: -4.312317
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].y
+      value: 0.66820145
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[8].z
+      value: 3.6768188
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].x
+      value: -5.657391
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].y
+      value: 1.131208
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[10].z
+      value: 5.873719
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[14].x
+      value: -11.259735
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[14].y
+      value: 2.1196632
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[14].z
+      value: 10.821655
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[16].x
+      value: -11.685392
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[16].y
+      value: 2.8684528
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[16].z
+      value: 14.239478
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].x
+      value: 0.2373352
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].z
+      value: 12.488586
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].x
+      value: 4.1864448
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].y
+      value: 1.9485384
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104500910179, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].z
+      value: 8.795591
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -161.766
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 23.563
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.761
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7721569
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.63543195
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104603214181, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 438.904
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104665844884, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4677,18 +5714,160 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.7293699
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.44449234
+      value: 0.44449043
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 15.278526
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4228618
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.042899087
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9046996
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104808359445, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.029431071
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006104875459841, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.5061703
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104875459852, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Alcanza una longitud cabeza \u2013 cuerpo de 10 a 28 cm, y la cola
+        de 14 a 28 cm de largo. Pesa entre 212 y 520 gramos. El color del pelo del
+        cuerpo var\xEDa en las 30 subespecies. La coloraci\xF3n est\xE1 de todos
+        modos marcada por un color marr\xF3n casta\xF1o rojizo oscuro. Adopta una
+        posici\xF3n sentada y manipulan el alimento con los miembros anteriores produciendo
+        un sonido continuo y agudo. Prefieren los frutos grandes y especialmente
+        semillas de palmas y legumbres. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104875459852, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 3a5f59bdba1cead4d8aa5cb01495b1b3,
+        type: 3}
+    - target: {fileID: 2043006104875459852, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Ardilla colirroja Sciurus_granatensis '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104881744618, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Alcanza una longitud cabeza \u2013 cuerpo de 10 a 28 cm, y la cola
+        de 14 a 28 cm de largo. Pesa entre 212 y 520 gramos. El color del pelo del
+        cuerpo var\xEDa en las 30 subespecies. La coloraci\xF3n est\xE1 de todos
+        modos marcada por un color marr\xF3n casta\xF1o rojizo oscuro. Adopta una
+        posici\xF3n sentada y manipulan el alimento con los miembros anteriores produciendo
+        un sonido continuo y agudo. Prefieren los frutos grandes y especialmente
+        semillas de palmas y legumbres. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104881744618, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 3a5f59bdba1cead4d8aa5cb01495b1b3,
+        type: 3}
+    - target: {fileID: 2043006104881744618, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Ardilla colirroja Sciurus_granatensis '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104970114081, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "El gato dom\xE9stico, llamado popularmente gato, y de forma coloquial
+        minino,  michino,  michi,  micho,  mizo,  miz,  morro\xF1o o morrongo,  entre
+        otros nombres, es un mam\xEDfero carn\xEDvoro de la familia Felidae. Es una
+        subespecie domesticada por la convivencia con el ser humano. El nombre actual
+        en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
+        alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
+        lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.  "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104970114081, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 9fcfa0de79afb2842a06a794cfab3dba,
+        type: 3}
+    - target: {fileID: 2043006104970114081, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Gato_ Felis silvestris catus
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -138.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -35.382
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.17107949
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.028102666
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9834715
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.052209787
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -6.448
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -199.615
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105029210581, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -2.158
       objectReference: {fileID: 0}
     - target: {fileID: 2043006105040914698, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4720,15 +5899,93 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.0000076293945
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].x
+      value: 0.23735094
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].y
+      value: 0.32268736
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[32].z
+      value: 12.488603
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].x
+      value: 4.189354
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].y
+      value: 0.12583351
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105129528972, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: editorData._bezierPath.points.Array.data[34].z
+      value: 8.792847
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105232873246, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "El gato dom\xE9stico, llamado popularmente gato, y de forma coloquial
+        minino,  michino,  michi,  micho,  mizo,  miz,  morro\xF1o o morrongo,  entre
+        otros nombres, es un mam\xEDfero carn\xEDvoro de la familia Felidae. Es una
+        subespecie domesticada por la convivencia con el ser humano. El nombre actual
+        en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
+        alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
+        lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.   "
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105232873246, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 9fcfa0de79afb2842a06a794cfab3dba,
+        type: 3}
+    - target: {fileID: 2043006105232873246, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: ' Gato_ Felis silvestris catus '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.9771805
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.524642
+      value: -0.5245943
       objectReference: {fileID: 0}
     - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.479683
+      value: 15.480278
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.43654814
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.033466693
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.898982
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.011707914
       objectReference: {fileID: 0}
     - target: {fileID: 2043006105360803941, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -5081,15 +6338,15 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 44a1c1b6549af304e99423e2b85f31b7, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f143ac8d2a1b5e0488e4be650ad829d2, type: 3}
---- !u!4 &1811308260426740409 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1811308260426344505}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1811308260426313369 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811308260426344505}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308260426740409 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
     type: 3}
   m_PrefabInstance: {fileID: 1811308260426344505}
   m_PrefabAsset: {fileID: 0}
@@ -5366,6 +6623,98 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1811308260429500411}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1811308260555026990
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "Este es un espacio construido y equipado en el 2004 y en el transcurso
+        de estos a\xF1os ha recibido diferentes recursos para su conservaci\xF3n
+        y la compra de nuevos equipos. Es un espacio que cuenta con la zona del acondicionamiento
+        fisco, camerinos, oficinas y un \xE1rea de param\xE9dicos. Adicionalmente
+        en la parte posterior del coliseo cubierto se cuenta con una zona de gimnasios
+        al aire libre, que cuenta con 16 m\xE1quinas para diferentes actividades
+        de acondicionamiento f\xEDsico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: f086831b9ed37c84983091f997a6054f,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "BLOQUE 22. GIMNASIO, GIMNASIO AL AIRE LIBRE Y ATENCI\xD3N M\xC9DICA
+        O PARAM\xC9DICOS."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 22.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 20.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
 --- !u!1001 &1811308260806390469
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5803,18 +7152,107 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f143ac8d2a1b5e0488e4be650ad829d2, type: 3}
---- !u!4 &1811308260962777616 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1811308260962902160}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1811308260962936368 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
     type: 3}
   m_PrefabInstance: {fileID: 1811308260962902160}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308260962777616 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811308260962902160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1811308260993953439
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "Es un espacio adecuado y remodelado, que pas\xF3 de cancha en arenilla
+        a cancha sint\xE9tica, con iluminaci\xF3n, cerramiento de mallas y gradas
+        o tribunas, Este espacio es utilizado por toda la comunidad para actividades
+        relacionadas con Futbol, Rugby, competencia de drones y actividades de acondicionamiento
+        f\xEDsico. Posee una superficie de 4700 m2 y gradas para 500 personas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c8d4d3fbd088e3419a64ddbfb8140a9,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "BLOQUE 20. CANCHA SINT\xC9TICA DE FUTBOL."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 23.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 45.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
 --- !u!1001 &1811308261005245892
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7326,15 +8764,15 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: bc1181ccb4da7fb49bce36c9cf45c865, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f143ac8d2a1b5e0488e4be650ad829d2, type: 3}
---- !u!4 &1811308261900614545 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1811308261901000977}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1811308261901035441 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811308261901000977}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308261900614545 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
     type: 3}
   m_PrefabInstance: {fileID: 1811308261901000977}
   m_PrefabAsset: {fileID: 0}
@@ -7411,15 +8849,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f143ac8d2a1b5e0488e4be650ad829d2, type: 3}
---- !u!4 &1811308261960120187 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
-    type: 3}
-  m_PrefabInstance: {fileID: 1811308261959986683}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1811308261960018779 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 100000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1811308261959986683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308261960120187 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: f143ac8d2a1b5e0488e4be650ad829d2,
     type: 3}
   m_PrefabInstance: {fileID: 1811308261959986683}
   m_PrefabAsset: {fileID: 0}
@@ -7503,117 +8941,117 @@ PrefabInstance:
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.1
+      value: -4.73
       objectReference: {fileID: 0}
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.86
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: -4643408190937625982, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 9.7
+      value: 11.84
       objectReference: {fileID: 0}
     - target: {fileID: -2387445882963741070, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -2387445882963741070, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -2387445882963741070, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -2387445882963741070, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.66
+      value: 5.48
       objectReference: {fileID: 0}
     - target: {fileID: -2387445882963741070, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.6
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.1
+      value: 4.73
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.86
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: -52749451245905121, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 9.7
+      value: 11.84
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.1
+      value: -4.73
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.86
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: 341602658529864650, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6.2
+      value: -6.49
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
@@ -7628,32 +9066,32 @@ PrefabInstance:
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.0127573665
+      value: 0.014704141
       objectReference: {fileID: 0}
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.1
+      value: 4.73
       objectReference: {fileID: 0}
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.86
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: 3298397014183406779, guid: c0697cdf5ce169545a4bdb048667825a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6.1
+      value: -6.37
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0697cdf5ce169545a4bdb048667825a, type: 3}
@@ -15203,6 +16641,16 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 309.4
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177548785690510, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -55.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177548785690510, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.99
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177548796355304, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: texto
@@ -15237,6 +16685,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: a0788a9cf5217a7489e61b6eb9865449,
         type: 3}
+    - target: {fileID: 6002177548929632382, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 8 edificio de Parque Tech, actualmente est\xE1 en ejecuci\xF3n,
+        es una estructura aporticada de 5 niveles con una distribuci\xF3n arquitect\xF3nica
+        en planta en forma de L, la cual se distribuye una circulaci\xF3n perimetral
+        y se plantean en una serie de espacios de aulas y laboratorios, al igual
+        que de oficinas para investigadores, cuartos t\xE9cnicos, unidades sanitarias
+        y circulaci\xF3n vertical."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177548929632382, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: Boloque 8. Parque Tech.
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177548946086490, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15291,7 +16754,7 @@ PrefabInstance:
     - target: {fileID: 6002177548994759108, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.1
+      value: -1.63
       objectReference: {fileID: 0}
     - target: {fileID: 6002177548994759108, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15349,6 +16812,16 @@ PrefabInstance:
       propertyPath: titulo
       value: Bloque 10 PROCESOS ELECTRICOS
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177549047873981, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549047873981, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177549126335410, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15373,6 +16846,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 382
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549271816785, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -33.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549271816785, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 166.37
       objectReference: {fileID: 0}
     - target: {fileID: 6002177549276606801, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15403,6 +16886,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 384.687
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549355552926, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549355552926, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 29.4
       objectReference: {fileID: 0}
     - target: {fileID: 6002177549414431797, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15511,6 +17004,16 @@ PrefabInstance:
       propertyPath: titulo
       value: 'Bloque 6. Laboratorio de Procesos Industriales '
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177549622520933, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549622520933, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -141.24
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177549719694580, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15612,6 +17115,16 @@ PrefabInstance:
       propertyPath: titulo
       value: Laboratorio de Monozukuri
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177550074122973, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -55.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550074122973, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.33
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177550080369293, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15626,6 +17139,34 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 370.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550119347696, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550119347696, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -137.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550119347703, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 23 identifica el auditorio \u201CLa Convenci\xF3n\u201D.
+        Un edificio de importantes proporciones dentro del complejo de edificaciones
+        del campus, que ha servido para suplir las necesidades de un auditorio que
+        la instituci\xF3n en su proceso de crecimiento demandaba, es una caja de
+        planta rectangular que aprovecha la pendiente del terreno para crear la pendiente
+        de las grader\xEDas con respecto al escenario, despliega una forma regular
+        con capacidad para 560 espectadores, el patio de butacas est\xE1 distribuido
+        en dos naves con acceso central y laterales, un escenario de profundidad
+        media y buenas caracter\xEDsticas de acondicionamiento ac\xFAstico."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550119347703, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: "Bloque 23. Teatro La Convenci\xF3n."
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550137909739, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15649,6 +17190,19 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 116.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550236503475, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El Bloque de Bienestar es un edificio de 2 plantas, que contar\xE1
+        con espacios de bienestar para cultura y recreaci\xF3n, ocio productivo,
+        conferencias y artes, as\xED mismo tendr\xE1 4 locales comerciales (para
+        cafeter\xEDas o restaurantes)."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550236503475, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: Bloque de Bienestar
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550236503476, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15695,6 +17249,45 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 368.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550345992027, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -84.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550345992027, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550345992027, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -176.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550345992028, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 26 es el edificio denominado Ciudadela Pedro Nel G\xF3mez,
+        hace parte de una estrategia de la administraci\xF3n municipal que tiene
+        como objetivo fortalecer y consolidar el sector como un n\xFAcleo educativo
+        de orden metropolitano y recoge el esp\xEDritu del proyecto original del
+        maestro Pedro Nel G\xF3mez que procuraba establecer una relaci\xF3n f\xEDsica
+        y espacial entre las Facultades de Minas y Agronom\xEDa. En el caso del Pascual
+        Bravo el denominado edificio de borde se plante\xF3 como un espacio de actividades
+        culturales que aprovecha su ubicaci\xF3n al costado del corredor vial de
+        la 73."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550345992028, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: afe60909dbd07af4ea2c1d7122c39684,
+        type: 3}
+    - target: {fileID: 6002177550345992028, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: BLOQUE 26. CIUDADELA PEDRO NEL GOMEZ
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550432613296, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15754,6 +17347,11 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 296.529
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177550576552219, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 18.2
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177550618933623, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -15763,6 +17361,53 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 296.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550650296561, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "Es un espacio que fue construido el a\xF1o 2005, al cual se le ha realizado
+        mantenimiento para la conservaci\xF3n de su infraestructura, este espacio,
+        est\xE1 destinado para diferentes actividades deportivas y culturales de
+        la instituci\xF3n tales como, futbol sala, baloncesto, voleibol y presentaciones
+        culturales como teatro, danza y baile."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550650296561, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: a13652bea0d45ea48a455964fd2fe914,
+        type: 3}
+    - target: {fileID: 6002177550650296561, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: Bloque 21. coliseo.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550650296566, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550650296566, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550658552018, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 25 alberga los principales usos administrativos, entre otros
+        la Rector\xEDa, comprende de un volumen de planta rectangular con tres niveles,
+        un taco de circulaciones verticales central que tiene acceso desde la plazoleta
+        que configuran el auditorio y la biblioteca, adem\xE1s y aprovecha la pendiente
+        y genera un semis\xF3tano de la mitad de la planta al que se accede por una
+        escalera de servicios y/o por medio mec\xE1nico, el espacio central que contiene
+        la escalera es abierto y tambi\xE9n contiene un cafet\xEDn y una terraza
+        como sitio de encuentro de los funcionarios."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550658552021, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -146
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550763851396, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15830,7 +17475,17 @@ PrefabInstance:
     - target: {fileID: 6002177550783915327, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 60.2
+      value: 60.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550784190487, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -92.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550784190487, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 155.03
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550788681531, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -15917,15 +17572,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b614cce90f1b1414b9db167a568089eb, type: 3}
---- !u!4 &1811308261397551670 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
-    type: 3}
-  m_PrefabInstance: {fileID: 6879757405434160307}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1811308261432857946 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5069577278236373481, guid: b614cce90f1b1414b9db167a568089eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 6879757405434160307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308261397551670 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
     type: 3}
   m_PrefabInstance: {fileID: 6879757405434160307}
   m_PrefabAsset: {fileID: 0}
