@@ -48,6 +48,8 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -59,6 +61,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -108,11 +111,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   codigo: 
-  titulo: 
-  texto: "Para el a\xF1o 2008, bajo el Acuerdo Municipal No. 28 se incorpora la Instituci\xF3n
-    a las estructuras descentralizadas de la educaci\xF3n superior del Municipio de
-    Medell\xEDn."
-  imagen: {fileID: 0}
+  titulo: Bloque 24
+  texto: "-Biblioteca -@Medell\xEDn -PITS -Oficina Asesora de Internacionalizaci\xF3n."
+  imagen: {fileID: 21300000, guid: f7a1990a3a6747f41be6d2d85f8e4512, type: 3}
 --- !u!114 &3742763320743274470
 MonoBehaviour:
   m_ObjectHideFlags: 0

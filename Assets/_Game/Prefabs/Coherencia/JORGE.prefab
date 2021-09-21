@@ -4297,6 +4297,71 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.0000076293945
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.023
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.226
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.4485826
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.52872413
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5892931
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.4146783
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.824
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 255.306
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757200, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -84.434
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757212, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.378
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757212, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103566757212, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.86
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103570007518, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -4337,10 +4402,50 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 7.3722153
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006103791239370, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103791239370, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103791239376, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103791239376, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103791239376, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.13
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006103907661508, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 7.372223
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103944222816, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -150.829
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103944222816, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006103944222816, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -160.697
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103958416189, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -4367,6 +4472,25 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.0000076293945
       objectReference: {fileID: 0}
+    - target: {fileID: 2043006104115237722, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104115237722, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006104115237722, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Guacamaya bandera
+      objectReference: {fileID: 0}
     - target: {fileID: 2043006104124990234, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -4376,6 +4500,71 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 15.703911
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -110.642
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.999
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -157.712
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.009258003
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99995714
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104131283760, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 178.939
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Guacamaya bandera
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104398635876, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: llegaaalcanzar90cmdelongitudy1kgdepeso.Sedistingueporsuplumajedecoloresvivos,queesprincipalmenterojoescarlata,complementadoconalgunasplumasazulesyamarillasconverdequeiniciandesdelasalashastasucola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2043006104398635876, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 69782ad8225cf3b4990ebbdd125df215,
+        type: 3}
+    - target: {fileID: 2043006104398635876, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: Guacamaya bandera
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104500910176, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -5061,6 +5250,188 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1811308260816006703}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1811308260819645839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "El laboratorio de mecatr\xF3nica, surgi\xF3 con el fin de apoyar a
+        las actividades misionales de docencia, extensi\xF3n e investigaci\xF3n.
+        en el a\xF1o 2015 se inaugur\xF3 el nuevo laboratorio de mecatr\xF3nica,
+        disponiendo de equipos, acordes a las nuevas tendencias tecnol\xF3gicas como
+        lo son, equipos de rob\xF3tica, dise\xF1o e impresi\xF3n 3D, aplicaciones
+        con drones, CNC y diferentes herramientas para el prototipado r\xE1pido y
+        cuenta con un \xE1rea de 80 m2, con capacidad total para 20 personas."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: ef0623058f22bd94bad8d34252ef86c6,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "Mecatr\xF3nica Bloque 5 "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -123.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 30.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 168.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
+--- !u!1001 &1811308261005245892
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: texto
+      value: "El bloque 13 que alberga la escuela p\xFAblica del dise\xF1o, es un
+        espacio con 4 pisos, donde se encuentra la facultad de producci\xF3n y dise\xF1o,
+        la cual cuenta con aula de clases y laboratorios dotados con ayuda audiovisual,
+        equipos para dise\xF1o como tabletas y Wordkstation; tambi\xE9n se cuenta
+        con laboratorio de log\xEDstica y talleres de la facultad de mec\xE1nica,
+        en este bloque tambi\xE9n hay oficinas de docentes de los programas afines
+        con esta facultad."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: b03b125455abc224e8c7fb1379e7f083,
+        type: 3}
+    - target: {fileID: 1519618540016339705, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: titulo
+      value: "Bloque 13 descripci\xF3n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -38.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 30.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 208.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
 --- !u!1001 &1811308261172642280
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5789,6 +6160,75 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1811308261388783469}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1811308261535546097
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1811308261432857946}
+    m_Modifications:
+    - target: {fileID: 1519618540016339706, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_Name
+      value: i (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 53.959652
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.444
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -159.79799
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1519618540016339710, guid: 75cd922a88564fe4bbe5a9027025164b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75cd922a88564fe4bbe5a9027025164b, type: 3}
 --- !u!1001 &1811308261547741107
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13429,15 +13869,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0697cdf5ce169545a4bdb048667825a, type: 3}
---- !u!4 &3532769830441856630 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
-    type: 3}
-  m_PrefabInstance: {fileID: 3930606790542707101}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &3441599501022707697 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -7399600486345083284, guid: c0697cdf5ce169545a4bdb048667825a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3930606790542707101}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3532769830441856630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c0697cdf5ce169545a4bdb048667825a,
     type: 3}
   m_PrefabInstance: {fileID: 3930606790542707101}
   m_PrefabAsset: {fileID: 0}
@@ -13524,6 +13964,78 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 2.75
       objectReference: {fileID: 0}
+    - target: {fileID: 6002177549012760610, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -68.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549012760610, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 35.965
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549012760610, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 384.165
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549189564172, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -88.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549189564172, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.119
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549189564172, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 382
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549343419696, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -87.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549343419696, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 366.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549349994503, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -70.333
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549349994503, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 384.687
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549530195025, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -89.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549530195025, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 131.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549530195030, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "El laboratorio LIDA surgi\xF3 con el nombre de laboratorio de motores.
+        El avance de la industria automotriz creo la necesidad de ampliar las actividades
+        realizadas en el laboratorio, ofertando a los estudiantes las tecnolog\xEDas
+        y t\xE9cnicas de la industria automotriz. A finales del a\xF1o 2017, se realiz\xF3
+        una repotenciaci\xF3n y adecuaci\xF3n del espacio, dando entrada a m\xE1quinas
+        y equipos modernos para la ense\xF1anza, aprendizaje y pr\xE1ctica de actividades
+        de diagn\xF3stico, mantenimiento y an\xE1lisis de rendimiento de veh\xEDculos.
+        este espacio cuenta con un \xE1rea de 215 m2."
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177549719694580, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13533,6 +14045,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 272.597
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549960752160, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.547
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549960752160, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 47.297
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177549960752160, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 211.926
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550080369293, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -80.042
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550080369293, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550080369293, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 370.87
       objectReference: {fileID: 0}
     - target: {fileID: 6002177550236503476, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
@@ -13555,6 +14097,110 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: a0788a9cf5217a7489e61b6eb9865449,
         type: 3}
+    - target: {fileID: 6002177550334913471, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -62.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550334913471, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550334913471, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 368.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550432613296, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -79.663
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550432613296, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.757
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550432613296, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 377.928
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550481227424, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -78.935
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550481227424, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550481227424, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 366.361
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550523851968, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: El bloque 3 o Piscina es un espacio que fue renovado, en todas las modalidades
+        deportivas, fue modernizado y acondicionado cumpliendo con todas las normas
+        que las entidades competentes disponen, cuenta con 976 m2 y capacidad para
+        40 personas.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550763851396, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -97.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550763851396, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 381.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550773906945, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550773906945, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550773906945, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 203.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550783915320, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: texto
+      value: "Este ha sido el crecimiento de las colecciones bibliogr\xE1ficas, tanto
+        f\xEDsicas como dig\xEDtales, siendo estas \xFAltimas las que presentan un
+        mayor crecimiento porcentual Libros T\xEDtulos: 14709 Vol\xFAmenes: 20965,
+        Multimedios (DVD, CD-ROM y videos): 2455, Bases de datos por suscripci\xF3n
+        y disponibles: 29, Libros electr\xF3nicos: 102435. TOTAL, RECURSOS BIBLIOGRAFICOS:
+        248.766 "
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550783915320, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: 0b69cc4977b8761429a086433af231f1,
+        type: 3}
+    - target: {fileID: 6002177550783915320, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: titulo
+      value: Bloque 24 INFO BIBLIOTECA
+      objectReference: {fileID: 0}
+    - target: {fileID: 6002177550783915327, guid: b614cce90f1b1414b9db167a568089eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 60.2
+      objectReference: {fileID: 0}
     - target: {fileID: 6002177550871242456, guid: b614cce90f1b1414b9db167a568089eb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13582,15 +14228,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b614cce90f1b1414b9db167a568089eb, type: 3}
---- !u!4 &1811308261397551670 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
-    type: 3}
-  m_PrefabInstance: {fileID: 6879757405434160307}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1811308261432857946 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5069577278236373481, guid: b614cce90f1b1414b9db167a568089eb,
+    type: 3}
+  m_PrefabInstance: {fileID: 6879757405434160307}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1811308261397551670 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5069577278133960325, guid: b614cce90f1b1414b9db167a568089eb,
     type: 3}
   m_PrefabInstance: {fileID: 6879757405434160307}
   m_PrefabAsset: {fileID: 0}
