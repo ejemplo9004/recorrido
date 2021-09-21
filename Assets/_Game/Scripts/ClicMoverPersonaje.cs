@@ -8,11 +8,13 @@ public class ClicMoverPersonaje : MonoBehaviour
     public GameObject prefabJugador;
     public float tiempoClic;
     public Camera camara;
+    public static ClicMoverPersonaje singleton;
+
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        singleton = this;
     }
 
     // Update is called once per frame
@@ -43,13 +45,18 @@ public class ClicMoverPersonaje : MonoBehaviour
             {
                 Vector3 targetPoint = hitdist.point + Vector3.up;
                 //jugador.position = targetPoint;
-                Destroy(jugador.gameObject);
-                GameObject go = Instantiate(prefabJugador, targetPoint, Quaternion.identity);
-                jugador = go.transform;
-                ControlModos.singleton.elementosM0[0] = jugador.gameObject;
+                ReinstanciarPersonaje(targetPoint);
             }
 
         }
         ControlModos.singleton.CambiarModo(0);
+    }
+
+    public void ReinstanciarPersonaje(Vector3 targetPoint)
+	{
+        Destroy(jugador.gameObject);
+        GameObject go = Instantiate(prefabJugador, targetPoint, Quaternion.identity);
+        jugador = go.transform;
+        ControlModos.singleton.elementosM0[0] = jugador.gameObject;
     }
 }

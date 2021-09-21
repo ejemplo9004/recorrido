@@ -13,6 +13,8 @@ public class ControlModos : MonoBehaviour
     public GameObject[] elementosM1;
     public GameObject menu;
     public int modoActual;
+    public GameObject personaje;
+    public GameObject prefabJugador;
 
     private void Awake()
     {
@@ -88,5 +90,14 @@ public class ControlModos : MonoBehaviour
         {
             objeto.SetActive(e);
         }
+    }
+
+
+    public void ReinstanciarPersonaje(Vector3 targetPoint)
+    {
+        Destroy(personaje);
+        GameObject go = Instantiate(prefabJugador, targetPoint, Quaternion.identity);
+        personaje = go;
+        if (ControlModos.singleton != null) ControlModos.singleton.elementosM0[0] = personaje.gameObject;
     }
 }

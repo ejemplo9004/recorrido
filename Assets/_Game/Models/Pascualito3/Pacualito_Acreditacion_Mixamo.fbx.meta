@@ -11,7 +11,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: PASCUALITO_MAPAS
-    second: {fileID: 2100000, guid: 871d0eaa78226ef42a8ffcb7c4d90c6e, type: 2}
+    second: {fileID: 2100000, guid: 59c57a685db291b479b28769fffb3d90, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -21,7 +21,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert2
-    second: {fileID: 2100000, guid: 5635ee47a9fc336428f79ae9274ca389, type: 2}
+    second: {fileID: 2100000, guid: 59c57a685db291b479b28769fffb3d90, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

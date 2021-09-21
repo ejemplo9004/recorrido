@@ -7,6 +7,7 @@ public class PuertasAscensor : MonoBehaviour
     public static PuertasAscensor singleton;
     public Animator animAscensor;
     public bool abirto;
+    public GameObject botonera;
 
 
     private void Awake()
@@ -18,12 +19,14 @@ public class PuertasAscensor : MonoBehaviour
     {
         abirto = true;
         animAscensor.SetBool("abierta", abirto);
+        botonera.SetActive(abirto);
     }
 
     public void Cerrar()
     {
         abirto = false;
         animAscensor.SetBool("abierta", abirto);
+        botonera.SetActive(abirto);
     }
     private void OnTriggerEnter(Collider other)
     {
