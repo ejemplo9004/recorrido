@@ -8,6 +8,7 @@ public class GlobosControl : MonoBehaviour
     public List<Informacion> globos = new List<Informacion>();
     public Transform tGlobos;
     public Vector3 pos0, pos1;
+    public Transform camaraActiva;
 
 
     private void Awake()
@@ -53,6 +54,13 @@ public class GlobosControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+		if (camaraActiva == null || ControlModos.singleton.modoActual == 1)
+		{
+            return;
+		}
+        for (int i = 0; i < globos.Count; i++)
+        {
+            globos[i].gameObject.transform.LookAt(camaraActiva);
+        }
     }
 }
