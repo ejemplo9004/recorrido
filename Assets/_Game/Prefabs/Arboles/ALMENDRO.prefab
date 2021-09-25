@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1476934387872097504}
   - component: {fileID: 1476934387870770374}
   - component: {fileID: 1476934387869804038}
+  - component: {fileID: 8401080263681473330}
   m_Layer: 0
   m_Name: ALMENDRO_LOD1
   m_TagString: Untagged
@@ -54,6 +55,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -66,6 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -78,6 +82,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &8401080263681473330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476934387872004288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &1476934387872004290
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,6 +108,7 @@ GameObject:
   - component: {fileID: 1476934387872097506}
   - component: {fileID: 1476934387870770368}
   - component: {fileID: 1476934387869804032}
+  - component: {fileID: 4762831590539908629}
   m_Layer: 0
   m_Name: ALMENDRO_LOD2
   m_TagString: Untagged
@@ -132,6 +152,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -144,6 +166,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -156,6 +179,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4762831590539908629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476934387872004290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &1476934387872004292
 GameObject:
   m_ObjectHideFlags: 0
@@ -168,6 +206,7 @@ GameObject:
   - component: {fileID: 1476934387853570116}
   - component: {fileID: 8890151303052154175}
   - component: {fileID: 6179451128125185844}
+  - component: {fileID: -3693226609636661439}
   m_Layer: 0
   m_Name: ALMENDRO
   m_TagString: Arbol
@@ -236,6 +275,7 @@ MonoBehaviour:
   decripcion: "Un \xE1rbol t\xEDpico de la instituci\xF3n que decora los espacios
     y sirve de h\xE1bitat para los m\xFAltiples ecosistemas que comparten el espacio."
   foto: {fileID: 21300000, guid: 1fcec93e7d287eb46b57245bffc9cdba, type: 3}
+  ultimoClic: 0
 --- !u!136 &6179451128125185844
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -250,6 +290,19 @@ CapsuleCollider:
   m_Height: 4.1810675
   m_Direction: 1
   m_Center: {x: 0, y: 2.0573854, z: 0}
+--- !u!114 &-3693226609636661439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476934387872004292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7edbd955553d6499b20825d27a0864, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineasOutlines: []
 --- !u!1 &1476934387872004294
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,6 +314,7 @@ GameObject:
   - component: {fileID: 1476934387872097510}
   - component: {fileID: 1476934387870770372}
   - component: {fileID: 1476934387869804036}
+  - component: {fileID: 2650684306975402692}
   m_Layer: 0
   m_Name: ALMENDRO_LOD0
   m_TagString: Untagged
@@ -304,6 +358,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -316,6 +372,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -328,3 +385,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &2650684306975402692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476934387872004294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5172818800268409552}
   - component: {fileID: 5172818800264985334}
   - component: {fileID: 5172818800265984054}
+  - component: {fileID: 4307980780841019243}
   m_Layer: 0
   m_Name: ebano_LOD1
   m_TagString: Untagged
@@ -54,6 +55,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -66,6 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -78,6 +82,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4307980780841019243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5172818800268175088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &5172818800268175090
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,6 +108,7 @@ GameObject:
   - component: {fileID: 5172818800268409554}
   - component: {fileID: 5172818800264985328}
   - component: {fileID: 5172818800265984048}
+  - component: {fileID: 7292449189788350430}
   m_Layer: 0
   m_Name: ebano_LOD2
   m_TagString: Untagged
@@ -132,6 +152,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -144,6 +166,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -156,6 +179,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &7292449189788350430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5172818800268175090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &5172818800268175092
 GameObject:
   m_ObjectHideFlags: 0
@@ -168,6 +206,7 @@ GameObject:
   - component: {fileID: 5172818800248827508}
   - component: {fileID: 8849824348645089584}
   - component: {fileID: 4034022246134021500}
+  - component: {fileID: 4412970284920273552}
   m_Layer: 0
   m_Name: EBANO
   m_TagString: Arbol
@@ -250,6 +289,20 @@ MonoBehaviour:
   decripcion: "Un \xE1rbol t\xEDpico de la instituci\xF3n que decora los espacios
     y sirve de h\xE1bitat para los m\xFAltiples ecosistemas que comparten el espacio."
   foto: {fileID: 21300000, guid: 5b63ff42ed559a24aadaf6ee8f66d615, type: 3}
+  ultimoClic: 0
+--- !u!114 &4412970284920273552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5172818800268175092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7edbd955553d6499b20825d27a0864, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineasOutlines: []
 --- !u!1 &5172818800268175094
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,6 +314,7 @@ GameObject:
   - component: {fileID: 5172818800268409558}
   - component: {fileID: 5172818800264985332}
   - component: {fileID: 5172818800265984052}
+  - component: {fileID: 4177708306374514184}
   m_Layer: 0
   m_Name: ebano_LOD0
   m_TagString: Untagged
@@ -304,6 +358,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -316,6 +372,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -328,3 +385,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &4177708306374514184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5172818800268175094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0

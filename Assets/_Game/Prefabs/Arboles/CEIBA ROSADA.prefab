@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4861069961719239793}
   - component: {fileID: 4861069961720534103}
   - component: {fileID: 4861069961721665175}
+  - component: {fileID: 8172133279919560265}
   m_Layer: 0
   m_Name: ceibarosada_LOD1
   m_TagString: Untagged
@@ -54,6 +55,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -66,6 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -78,6 +82,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &8172133279919560265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861069961719662673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &4861069961719662675
 GameObject:
   m_ObjectHideFlags: 0
@@ -89,6 +108,7 @@ GameObject:
   - component: {fileID: 4861069961719239795}
   - component: {fileID: 4861069961720534097}
   - component: {fileID: 4861069961721665169}
+  - component: {fileID: 3004317524163081886}
   m_Layer: 0
   m_Name: ceibarosada_LOD2
   m_TagString: Untagged
@@ -132,6 +152,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -144,6 +166,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -156,6 +179,21 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &3004317524163081886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861069961719662675}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
 --- !u!1 &4861069961719662677
 GameObject:
   m_ObjectHideFlags: 0
@@ -168,6 +206,7 @@ GameObject:
   - component: {fileID: 4861069961736880341}
   - component: {fileID: 2266656985113977395}
   - component: {fileID: 6504058492924681952}
+  - component: {fileID: -1386497331258230013}
   m_Layer: 0
   m_Name: CEIBA ROSADA
   m_TagString: Arbol
@@ -250,6 +289,20 @@ MonoBehaviour:
   decripcion: "Un \xE1rbol t\xEDpico de la instituci\xF3n que decora los espacios
     y sirve de h\xE1bitat para los m\xFAltiples ecosistemas que comparten el espacio."
   foto: {fileID: 21300000, guid: 643d7f26b0fb6874ea4c24575bfbd7b0, type: 3}
+  ultimoClic: 0
+--- !u!114 &-1386497331258230013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861069961719662677}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7edbd955553d6499b20825d27a0864, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineasOutlines: []
 --- !u!1 &4861069961719662679
 GameObject:
   m_ObjectHideFlags: 0
@@ -261,6 +314,7 @@ GameObject:
   - component: {fileID: 4861069961719239799}
   - component: {fileID: 4861069961720534101}
   - component: {fileID: 4861069961721665173}
+  - component: {fileID: 7425038028020598123}
   m_Layer: 0
   m_Name: ceibarosada_LOD0
   m_TagString: Untagged
@@ -304,6 +358,8 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -316,6 +372,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -328,3 +385,18 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &7425038028020598123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4861069961719662679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  color: 0
+  eraseRenderer: 0
