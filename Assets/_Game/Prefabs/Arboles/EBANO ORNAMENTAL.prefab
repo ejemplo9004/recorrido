@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 207352902934363897}
   - component: {fileID: 207352902937231071}
   - component: {fileID: 207352902936263711}
-  - component: {fileID: 5905229232364119591}
+  - component: {fileID: 7525601071462156571}
   m_Layer: 0
   m_Name: Ebanoornamental_LOD1
   m_TagString: Untagged
@@ -83,7 +83,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5905229232364119591
+--- !u!114 &7525601071462156571
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 207352902934323929}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &207352902934323931
 GameObject:
   m_ObjectHideFlags: 0
@@ -108,7 +112,7 @@ GameObject:
   - component: {fileID: 207352902934363899}
   - component: {fileID: 207352902937231065}
   - component: {fileID: 207352902936263705}
-  - component: {fileID: 3249580788770668710}
+  - component: {fileID: 6332043257158747075}
   m_Layer: 0
   m_Name: Ebanoornamental_LOD2
   m_TagString: Untagged
@@ -180,7 +184,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3249580788770668710
+--- !u!114 &6332043257158747075
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,11 +193,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 207352902934323931}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &207352902934323933
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 207352902934363903}
   - component: {fileID: 207352902937231069}
   - component: {fileID: 207352902936263709}
-  - component: {fileID: 7483387065484451672}
+  - component: {fileID: 3428419195760431410}
   m_Layer: 0
   m_Name: Ebanoornamental_LOD0
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &7483387065484451672
+--- !u!114 &3428419195760431410
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 207352902934323935}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

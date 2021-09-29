@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 4691926258958663059}
   - component: {fileID: 4691926258961530289}
   - component: {fileID: 4691926258960564081}
-  - component: {fileID: 1397657377972506611}
+  - component: {fileID: 3249671283687754064}
   m_Layer: 0
   m_Name: gualanday_LOD0
   m_TagString: Untagged
@@ -192,7 +192,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1397657377972506611
+--- !u!114 &3249671283687754064
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -201,11 +201,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 4691926258958295475}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &4691926258958295477
 GameObject:
   m_ObjectHideFlags: 0
@@ -217,7 +221,7 @@ GameObject:
   - component: {fileID: 4691926258958663061}
   - component: {fileID: 4691926258961530291}
   - component: {fileID: 4691926258960564083}
-  - component: {fileID: 890633536697839400}
+  - component: {fileID: 8474850187630846219}
   m_Layer: 0
   m_Name: gualanday_LOD1
   m_TagString: Untagged
@@ -289,7 +293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &890633536697839400
+--- !u!114 &8474850187630846219
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,11 +302,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 4691926258958295477}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &4691926258958295479
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 4691926258958663063}
   - component: {fileID: 4691926258961530293}
   - component: {fileID: 4691926258960564085}
-  - component: {fileID: 2593720471168078429}
+  - component: {fileID: 7649409808193361965}
   m_Layer: 0
   m_Name: gualanday_LOD2
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &2593720471168078429
+--- !u!114 &7649409808193361965
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 4691926258958295479}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

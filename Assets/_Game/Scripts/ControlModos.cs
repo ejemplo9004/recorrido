@@ -61,6 +61,7 @@ public class ControlModos : MonoBehaviour
             default:
                 break;
         }
+        //MouseOutliner.DesactivarTodos();
         OcutarMenu();
     }
 

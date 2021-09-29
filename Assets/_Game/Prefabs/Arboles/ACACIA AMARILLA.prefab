@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 2703732378565641490}
   - component: {fileID: 2703732378564871474}
   - component: {fileID: 2703732378563872754}
-  - component: {fileID: 83742169370483029}
+  - component: {fileID: 679314103069487961}
   m_Layer: 0
   m_Name: ACACIA_LOD2
   m_TagString: Untagged
@@ -192,7 +192,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &83742169370483029
+--- !u!114 &679314103069487961
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -201,11 +201,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2703732378566072626}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &2703732378566072628
 GameObject:
   m_ObjectHideFlags: 0
@@ -217,7 +221,7 @@ GameObject:
   - component: {fileID: 2703732378565641492}
   - component: {fileID: 2703732378564871476}
   - component: {fileID: 2703732378563872756}
-  - component: {fileID: 2481108899158561224}
+  - component: {fileID: 2441923585980714943}
   m_Layer: 0
   m_Name: ACACIA_LOD1
   m_TagString: Untagged
@@ -289,7 +293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &2481108899158561224
+--- !u!114 &2441923585980714943
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,11 +302,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 2703732378566072628}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &2703732378566072630
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 2703732378565641494}
   - component: {fileID: 2703732378564871478}
   - component: {fileID: 2703732378563872758}
-  - component: {fileID: 3434895838826415139}
+  - component: {fileID: 4269046616243369035}
   m_Layer: 0
   m_Name: ACACIA_LOD0
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3434895838826415139
+--- !u!114 &4269046616243369035
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2703732378566072630}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9167027047938256793}
   - component: {fileID: 9167027047941648315}
   - component: {fileID: 9167027047940550011}
-  - component: {fileID: 5640584956726777929}
+  - component: {fileID: 3146808182746102845}
   m_Layer: 0
   m_Name: cascodevaca_LOD2
   m_TagString: Untagged
@@ -83,7 +83,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5640584956726777929
+--- !u!114 &3146808182746102845
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 9167027047938552761}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &9167027047938552763
 GameObject:
   m_ObjectHideFlags: 0
@@ -108,7 +112,7 @@ GameObject:
   - component: {fileID: 9167027047938256795}
   - component: {fileID: 9167027047941648317}
   - component: {fileID: 9167027047940550013}
-  - component: {fileID: 6354317026081820191}
+  - component: {fileID: 4516763279007046275}
   m_Layer: 0
   m_Name: cascodevaca_LOD1
   m_TagString: Untagged
@@ -180,7 +184,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6354317026081820191
+--- !u!114 &4516763279007046275
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,11 +193,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 9167027047938552763}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &9167027047938552765
 GameObject:
   m_ObjectHideFlags: 0
@@ -205,7 +213,7 @@ GameObject:
   - component: {fileID: 9167027047938256797}
   - component: {fileID: 9167027047941648319}
   - component: {fileID: 9167027047940550015}
-  - component: {fileID: 480825077992303066}
+  - component: {fileID: 1885140787927248753}
   m_Layer: 0
   m_Name: cascodevaca_LOD0
   m_TagString: Untagged
@@ -277,7 +285,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &480825077992303066
+--- !u!114 &1885140787927248753
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -286,11 +294,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 9167027047938552765}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &9167027047938552767
 GameObject:
   m_ObjectHideFlags: 0

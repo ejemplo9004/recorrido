@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7431438159064457049}
   - component: {fileID: 7431438159065751419}
   - component: {fileID: 7431438159066750395}
-  - component: {fileID: 6062810514177214007}
+  - component: {fileID: 8190143916498466956}
   m_Layer: 0
   m_Name: eugenio_LOD0
   m_TagString: Untagged
@@ -83,7 +83,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6062810514177214007
+--- !u!114 &8190143916498466956
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 7431438159064744825}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &7431438159064744827
 GameObject:
   m_ObjectHideFlags: 0
@@ -217,7 +221,7 @@ GameObject:
   - component: {fileID: 7431438159064457053}
   - component: {fileID: 7431438159065751423}
   - component: {fileID: 7431438159066750399}
-  - component: {fileID: 5414976113477223352}
+  - component: {fileID: 2493013825706838490}
   m_Layer: 0
   m_Name: eugenio_LOD2
   m_TagString: Untagged
@@ -289,7 +293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5414976113477223352
+--- !u!114 &2493013825706838490
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,11 +302,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 7431438159064744829}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &7431438159064744831
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 7431438159064457055}
   - component: {fileID: 7431438159065751417}
   - component: {fileID: 7431438159066750393}
-  - component: {fileID: 5472336488974365110}
+  - component: {fileID: 7901781422466820923}
   m_Layer: 0
   m_Name: eugenio_LOD1
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5472336488974365110
+--- !u!114 &7901781422466820923
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 7431438159064744831}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

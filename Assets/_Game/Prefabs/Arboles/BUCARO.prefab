@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5858259572061715592}
   - component: {fileID: 5858259572064615592}
   - component: {fileID: 5858259572063485544}
-  - component: {fileID: 3265649102408707716}
+  - component: {fileID: 7189553163870060917}
   m_Layer: 0
   m_Name: bucaro_LOD0
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3265649102408707716
+--- !u!114 &7189553163870060917
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -93,11 +93,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 5858259572061544616}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &5858259572061544618
 GameObject:
   m_ObjectHideFlags: 0
@@ -109,7 +113,7 @@ GameObject:
   - component: {fileID: 5858259572061715594}
   - component: {fileID: 5858259572064615594}
   - component: {fileID: 5858259572063485546}
-  - component: {fileID: 8766438343611349883}
+  - component: {fileID: 1090179753664396360}
   m_Layer: 0
   m_Name: bucaro_LOD1
   m_TagString: Untagged
@@ -181,7 +185,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8766438343611349883
+--- !u!114 &1090179753664396360
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,11 +194,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 5858259572061544618}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &5858259572061544620
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,7 +214,7 @@ GameObject:
   - component: {fileID: 5858259572061715596}
   - component: {fileID: 5858259572064615596}
   - component: {fileID: 5858259572063485548}
-  - component: {fileID: 4212808924232384097}
+  - component: {fileID: 7930827372132751524}
   m_Layer: 0
   m_Name: bucaro_LOD2
   m_TagString: Untagged
@@ -278,7 +286,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &4212808924232384097
+--- !u!114 &7930827372132751524
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -287,11 +295,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 5858259572061544620}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &5858259572061544622
 GameObject:
   m_ObjectHideFlags: 0

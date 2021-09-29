@@ -98,6 +98,56 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7959702903570894200, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: -6039912803583963049, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: -5408452201915774480, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: -4542235046961526075, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: -4306718808202691932, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: -487854223651951423, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 79748212371454957, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 101737626718310121, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 376556725852259378, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 529540309631496441, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
         type: 3}
       propertyPath: m_Name
@@ -107,6 +157,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 1522297568345631703, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 6895553738105958844, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 7825247293633294663, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
+      objectReference: {fileID: 0}
+    - target: {fileID: 8825935096684133313, guid: de3a4e8cb76521f4dbcaf84c561a68ed,
+        type: 3}
+      propertyPath: m_TagString
+      value: Piso
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de3a4e8cb76521f4dbcaf84c561a68ed, type: 3}

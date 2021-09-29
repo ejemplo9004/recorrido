@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6826039125139302736}
   - component: {fileID: 6826039125140629878}
   - component: {fileID: 6826039125141728182}
-  - component: {fileID: 1949806386637590474}
+  - component: {fileID: 3878306763630148365}
   m_Layer: 0
   m_Name: "pi\xF1onDeoreja_LOD1"
   m_TagString: Untagged
@@ -83,7 +83,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1949806386637590474
+--- !u!114 &3878306763630148365
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 6826039125139731824}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &6826039125139731826
 GameObject:
   m_ObjectHideFlags: 0
@@ -108,7 +112,7 @@ GameObject:
   - component: {fileID: 6826039125139302738}
   - component: {fileID: 6826039125140629872}
   - component: {fileID: 6826039125141728176}
-  - component: {fileID: 5755801046405802712}
+  - component: {fileID: 2660562495735510261}
   m_Layer: 0
   m_Name: "pi\xF1onDeoreja_LOD2"
   m_TagString: Untagged
@@ -180,7 +184,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &5755801046405802712
+--- !u!114 &2660562495735510261
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,11 +193,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 6826039125139731826}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &6826039125139731828
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 6826039125139302742}
   - component: {fileID: 6826039125140629876}
   - component: {fileID: 6826039125141728180}
-  - component: {fileID: 1286856084689677430}
+  - component: {fileID: 6619699689541298190}
   m_Layer: 0
   m_Name: "pi\xF1onDeoreja_LOD0"
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1286856084689677430
+--- !u!114 &6619699689541298190
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 6826039125139731830}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

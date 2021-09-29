@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 8249942320052849299}
   - component: {fileID: 8249942320049425073}
   - component: {fileID: 8249942320050554993}
-  - component: {fileID: 7108981503192485821}
+  - component: {fileID: 1476483239586141380}
   m_Layer: 0
   m_Name: GUAMO_LOD0
   m_TagString: Untagged
@@ -192,7 +192,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &7108981503192485821
+--- !u!114 &1476483239586141380
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -201,11 +201,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 8249942320052557491}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &8249942320052557493
 GameObject:
   m_ObjectHideFlags: 0
@@ -217,7 +221,7 @@ GameObject:
   - component: {fileID: 8249942320052849301}
   - component: {fileID: 8249942320049425075}
   - component: {fileID: 8249942320050554995}
-  - component: {fileID: 6063315725186550260}
+  - component: {fileID: 3470803725005895404}
   m_Layer: 0
   m_Name: GUAMO_LOD1
   m_TagString: Untagged
@@ -289,7 +293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6063315725186550260
+--- !u!114 &3470803725005895404
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,11 +302,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 8249942320052557493}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &8249942320052557495
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 8249942320052849303}
   - component: {fileID: 8249942320049425077}
   - component: {fileID: 8249942320050554997}
-  - component: {fileID: 6569383905579007652}
+  - component: {fileID: 3619929815723532235}
   m_Layer: 0
   m_Name: GUAMO_LOD2
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6569383905579007652
+--- !u!114 &3619929815723532235
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 8249942320052557495}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

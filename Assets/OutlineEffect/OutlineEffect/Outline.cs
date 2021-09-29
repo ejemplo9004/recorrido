@@ -39,7 +39,6 @@ namespace cakeslice
 
 		public int color;
 		public bool eraseRenderer;
-
 		private void Awake()
 		{
 			Renderer = GetComponent<Renderer>();

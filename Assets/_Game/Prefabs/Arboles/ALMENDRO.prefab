@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1476934387872097504}
   - component: {fileID: 1476934387870770374}
   - component: {fileID: 1476934387869804038}
-  - component: {fileID: 8401080263681473330}
+  - component: {fileID: 6587415834641633340}
   m_Layer: 0
   m_Name: ALMENDRO_LOD1
   m_TagString: Untagged
@@ -83,7 +83,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &8401080263681473330
+--- !u!114 &6587415834641633340
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1476934387872004288}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &1476934387872004290
 GameObject:
   m_ObjectHideFlags: 0
@@ -108,7 +112,7 @@ GameObject:
   - component: {fileID: 1476934387872097506}
   - component: {fileID: 1476934387870770368}
   - component: {fileID: 1476934387869804032}
-  - component: {fileID: 4762831590539908629}
+  - component: {fileID: 7079180578151305665}
   m_Layer: 0
   m_Name: ALMENDRO_LOD2
   m_TagString: Untagged
@@ -180,7 +184,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &4762831590539908629
+--- !u!114 &7079180578151305665
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -189,11 +193,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1476934387872004290}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &1476934387872004292
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 1476934387872097510}
   - component: {fileID: 1476934387870770372}
   - component: {fileID: 1476934387869804036}
-  - component: {fileID: 2650684306975402692}
+  - component: {fileID: 8078106155344796832}
   m_Layer: 0
   m_Name: ALMENDRO_LOD0
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &2650684306975402692
+--- !u!114 &8078106155344796832
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1476934387872004294}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

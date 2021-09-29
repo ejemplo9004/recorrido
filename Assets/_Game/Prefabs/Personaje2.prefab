@@ -683,7 +683,7 @@ GameObject:
   - component: {fileID: 4556885178357783271}
   - component: {fileID: 4556885178357783264}
   m_Layer: 4
-  m_Name: vThirdPersonCamera
+  m_Name: vThirdPersonCamera2
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -731,7 +731,7 @@ Camera:
   field of view: 60
   orthographic: 0
   orthographic size: 5
-  m_Depth: 0
+  m_Depth: 0.25
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -2631,7 +2631,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6962826285658063532}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -136.627, y: -13.587, z: -216}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:

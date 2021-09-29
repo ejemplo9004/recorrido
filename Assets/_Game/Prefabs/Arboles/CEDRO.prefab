@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 8919089491591284411}
   - component: {fileID: 8919089491587860123}
   - component: {fileID: 8919089491588858971}
-  - component: {fileID: 3994435831862896619}
+  - component: {fileID: 8346375153966511539}
   m_Layer: 0
   m_Name: cedro_LOD2
   m_TagString: Untagged
@@ -192,7 +192,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &3994435831862896619
+--- !u!114 &8346375153966511539
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -201,11 +201,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 8919089491590797979}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &8919089491590797981
 GameObject:
   m_ObjectHideFlags: 0
@@ -217,7 +221,7 @@ GameObject:
   - component: {fileID: 8919089491591284413}
   - component: {fileID: 8919089491587860125}
   - component: {fileID: 8919089491588858973}
-  - component: {fileID: 9168584377444162562}
+  - component: {fileID: 8395758717800531381}
   m_Layer: 0
   m_Name: cedro_LOD1
   m_TagString: Untagged
@@ -289,7 +293,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &9168584377444162562
+--- !u!114 &8395758717800531381
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,11 +302,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 8919089491590797981}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &8919089491590797983
 GameObject:
   m_ObjectHideFlags: 0
@@ -314,7 +322,7 @@ GameObject:
   - component: {fileID: 8919089491591284415}
   - component: {fileID: 8919089491587860127}
   - component: {fileID: 8919089491588858975}
-  - component: {fileID: 6932511323599004867}
+  - component: {fileID: 7234385711838919742}
   m_Layer: 0
   m_Name: cedro_LOD0
   m_TagString: Untagged
@@ -386,7 +394,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6932511323599004867
+--- !u!114 &7234385711838919742
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -395,8 +403,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 8919089491590797983}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf3575480402db40813e763382412fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: 0
-  eraseRenderer: 0
+  outlineMode: 1
+  outlineColor: {r: 0, g: 0.7576904, b: 1, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []

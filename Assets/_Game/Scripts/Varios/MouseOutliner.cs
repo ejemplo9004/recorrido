@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using cakeslice;
 
 public class MouseOutliner : MonoBehaviour
 {
+
     public List<Outline> lineasOutlines;
+    float tiempoActivo;
+    public static List<MouseOutliner> todos = new List<MouseOutliner>();
     void Start()
     {
         lineasOutlines = new List<Outline>();
@@ -17,14 +19,21 @@ public class MouseOutliner : MonoBehaviour
         Outline linea = GetComponent<Outline>();
         if(linea != null) lineasOutlines.Add(linea);
         Desactivar();
+        todos.Add(this);
     }
 
 	private void OnMouseOver()
 	{
         Activar();
+        tiempoActivo = Time.time + 0.1f;
 	}
 
-    void OnMouseExit()
+	private void Update()
+	{
+
+	}
+
+	void OnMouseExit()
     {
         Desactivar();
     }
@@ -43,4 +52,15 @@ public class MouseOutliner : MonoBehaviour
             lineasOutlines[i].enabled = false;
         }
     }
+
+    public static void DesactivarTodos()
+	{
+		for (int i = 0; i < todos.Count; i++)
+		{
+			if (todos[i] != null)
+			{
+                todos[i].Desactivar();
+			}
+		}
+	}
 }
