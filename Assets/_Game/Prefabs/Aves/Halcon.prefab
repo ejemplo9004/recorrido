@@ -289,6 +289,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5331931811015608818}
   - component: {fileID: 5331931811027605704}
+  - component: {fileID: 490755244816559723}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -371,6 +372,24 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0000000661239, y: 0.010502677, z: -0.0000023497269}
     m_Extent: {x: 0.02961339, y: 0.020594701, z: 0.010531131}
   m_DirtyAABB: 0
+--- !u!114 &490755244816559723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5331931811016037842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 1
+  outlineColor: {r: 0.30620968, g: 1, b: 0, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &5331931811016037848
 GameObject:
   m_ObjectHideFlags: 0
@@ -445,6 +464,7 @@ GameObject:
   - component: {fileID: 5331931809825744733}
   - component: {fileID: -3552774838170596903}
   - component: {fileID: 4854711142912249872}
+  - component: {fileID: 3095215213356953028}
   m_Layer: 0
   m_Name: Halcon
   m_TagString: Untagged
@@ -533,6 +553,19 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1.23
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3095215213356953028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5331931811016037852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7edbd955553d6499b20825d27a0864, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineasOutlines: []
 --- !u!1 &5331931811016037854
 GameObject:
   m_ObjectHideFlags: 0

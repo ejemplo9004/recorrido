@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6902940386551709784}
   - component: {fileID: 4741267116990953114}
   - component: {fileID: 2406263119575713509}
+  - component: {fileID: 1615672944431267455}
   m_Layer: 0
   m_Name: Guacamyla
   m_TagString: Untagged
@@ -101,6 +102,19 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 1.23
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1615672944431267455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6902940386135846496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b7edbd955553d6499b20825d27a0864, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineasOutlines: []
 --- !u!1 &6902940386135846498
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,6 +249,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6902940386135945806}
   - component: {fileID: 6902940386139022196}
+  - component: {fileID: 5945603716789377953}
   m_Layer: 0
   m_Name: Cube
   m_TagString: Untagged
@@ -317,6 +332,24 @@ SkinnedMeshRenderer:
     m_Center: {x: -0.0000000661239, y: 0.010502677, z: -0.0000023497269}
     m_Extent: {x: 0.02961339, y: 0.020594701, z: 0.010531131}
   m_DirtyAABB: 0
+--- !u!114 &5945603716789377953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6902940386135846510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 1
+  outlineColor: {r: 0.30620968, g: 1, b: 0, a: 1}
+  outlineWidth: 5.37
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!1 &6902940386135846512
 GameObject:
   m_ObjectHideFlags: 0
