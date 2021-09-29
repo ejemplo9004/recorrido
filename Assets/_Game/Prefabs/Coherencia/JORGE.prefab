@@ -5141,6 +5141,23 @@ MonoBehaviour:
   texto: 
   imagen: {fileID: 0}
   cual: 45
+--- !u!114 &2028960158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879831706933223141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558a92aaa47e80c4ba9e28945145dc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  codigo: 
+  titulo: 
+  texto: 
+  imagen: {fileID: 0}
+  cual: 48
 --- !u!114 &772970089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5175,6 +5192,23 @@ MonoBehaviour:
   texto: 
   imagen: {fileID: 0}
   cual: 44
+--- !u!114 &354978113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 879831707642408518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558a92aaa47e80c4ba9e28945145dc23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  codigo: 
+  titulo: 
+  texto: 
+  imagen: {fileID: 0}
+  cual: 47
 --- !u!114 &378419321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5226,23 +5260,6 @@ MonoBehaviour:
   texto: 
   imagen: {fileID: 0}
   cual: 39
---- !u!114 &354978113
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 879831707642408518}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 558a92aaa47e80c4ba9e28945145dc23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  codigo: 
-  titulo: 
-  texto: 
-  imagen: {fileID: 0}
-  cual: 47
 --- !u!65 &1038343856
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5295,23 +5312,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.01623793, y: 0.039138123, z: 0.015705926}
   m_Center: {x: 0.000000118601896, y: -0.0016981586, z: 0.007827292}
---- !u!114 &2028960158
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 879831706933223141}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 558a92aaa47e80c4ba9e28945145dc23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  codigo: 
-  titulo: 
-  texto: 
-  imagen: {fileID: 0}
-  cual: 48
 --- !u!65 &1738362005
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6033,7 +6033,7 @@ PrefabInstance:
         en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
         alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
         lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
-        cruzamiento y selecci\xF3n artificial, hay numerosas razas.   "
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.  "
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103348216909, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6266,7 +6266,7 @@ PrefabInstance:
     - target: {fileID: 2043006103576561375, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Gato Felis silvestris catus
+      value: Gato_ Felis silvestris catus
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103683520124, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6351,7 +6351,7 @@ PrefabInstance:
     - target: {fileID: 2043006103716380992, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: 'Guacamaya bandera_Ara Macao '
+      value: 'Guacamaya bandera_ Ara Macao '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103741643869, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6612,7 +6612,7 @@ PrefabInstance:
     - target: {fileID: 2043006103977738475, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Ardilla colirroja Sciurus_granatensis
+      value: 'Ardilla colirroja_ Sciurus_granatensis '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006103977738476, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6657,7 +6657,7 @@ PrefabInstance:
     - target: {fileID: 2043006104002676230, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: 'Ardilla colirroja Sciurus_granatensis '
+      value: 'Ardilla colirroja_ Sciurus_granatensis '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104002676283, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6890,7 +6890,7 @@ PrefabInstance:
         unos 50 d\xEDas a sus cr\xEDas. Sus cr\xEDas nacen luego de 14 d\xEDas de
         gestaci\xF3n, pero son tan peque\xF1as que deben terminar de formarse en
         la bolsa de la madre. Dos meses despu\xE9s las chuchas juveniles \u201Cnacen
-        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse"
+        por segunda vez\u201D y en menos de un a\xF1o est\xE1n listas para reproducirse."
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104166891442, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6920,7 +6920,7 @@ PrefabInstance:
     - target: {fileID: 2043006104260889653, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: Guacamaya bandera_Ara Macao
+      value: 'Guacamaya bandera_ Ara Macao '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104292925734, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -6960,7 +6960,7 @@ PrefabInstance:
     - target: {fileID: 2043006104296739637, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: "Zarig\xFCella Didelphismarsupialis "
+      value: "Zarig\xFCella_ Didelphismarsupialis "
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104382338948, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -7551,7 +7551,7 @@ PrefabInstance:
     - target: {fileID: 2043006104875459852, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: 'Ardilla colirroja Sciurus_granatensis '
+      value: ' Ardilla colirroja_ Sciurus_granatensis '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104881744618, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -7573,7 +7573,7 @@ PrefabInstance:
     - target: {fileID: 2043006104881744618, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: 'Ardilla colirroja Sciurus_granatensis '
+      value: 'Ardilla colirroja_ Sciurus_granatensis '
       objectReference: {fileID: 0}
     - target: {fileID: 2043006104970114081, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -7723,7 +7723,7 @@ PrefabInstance:
         en muchas lenguas proviene del lat\xEDn vulgar catus. Ir\xF3nicamente, catus
         alud\xEDa a los gatos salvajes, mientras que los gatos dom\xE9sticos, en
         lat\xEDn, eran llamados felis. Como resultado de mutaciones gen\xE9ticas,
-        cruzamiento y selecci\xF3n artificial, hay numerosas razas.   "
+        cruzamiento y selecci\xF3n artificial, hay numerosas razas.  "
       objectReference: {fileID: 0}
     - target: {fileID: 2043006105232873246, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -7734,7 +7734,7 @@ PrefabInstance:
     - target: {fileID: 2043006105232873246, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
       propertyPath: titulo
-      value: ' Gato_ Felis silvestris catus '
+      value: Gato_ Felis silvestris catus
       objectReference: {fileID: 0}
     - target: {fileID: 2043006105330351421, guid: 630782c64fa794641ab7bbbb83a7a67b,
         type: 3}
@@ -7775,6 +7775,132 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 1.6062794
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606937809323211812, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide entre 45 y 62 cm de largo. Posee un claro dimorfismo sexual; el
+        macho posee un dorso gris y un vientre blanco generalmente, aunque existe
+        un morfo completamente gris\xE1ceo.4 La hembra se distingue por tener los
+        hombros y parte del dorso de color canela o rojizo, aunque a veces se ve
+        ese color en los inmaduros. La hembra tambi\xE9n puede presentan un morfo
+        oscuro. 4 Se le distingue por la cola blanca con rayas delgadas negras horizontales
+        y una banda negra subterminal en la cola."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606937809323211812, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: c3c3868f8cc4f59489b27f6c49151bb1,
+        type: 3}
+    - target: {fileID: 3606937809323211812, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Aguilucho_ Geranoaetus polyosoma '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606937809420913182, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide entre 45 y 62 cm de largo. Posee un claro dimorfismo sexual; el
+        macho posee un dorso gris y un vientre blanco generalmente, aunque existe
+        un morfo completamente gris\xE1ceo.4 La hembra se distingue por tener los
+        hombros y parte del dorso de color canela o rojizo, aunque a veces se ve
+        ese color en los inmaduros. La hembra tambi\xE9n puede presentan un morfo
+        oscuro. 4 Se le distingue por la cola blanca con rayas delgadas negras horizontales
+        y una banda negra subterminal en la cola."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3606937809420913182, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: c3c3868f8cc4f59489b27f6c49151bb1,
+        type: 3}
+    - target: {fileID: 3606937809420913182, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Aguilucho_ Geranoaetus polyosoma '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974083323995034648, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide entre 45 y 62 cm de largo. Posee un claro dimorfismo sexual; el
+        macho posee un dorso gris y un vientre blanco generalmente, aunque existe
+        un morfo completamente gris\xE1ceo.4 La hembra se distingue por tener los
+        hombros y parte del dorso de color canela o rojizo, aunque a veces se ve
+        ese color en los inmaduros. La hembra tambi\xE9n puede presentan un morfo
+        oscuro. 4 Se le distingue por la cola blanca con rayas delgadas negras horizontales
+        y una banda negra subterminal en la cola."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974083323995034648, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: c3c3868f8cc4f59489b27f6c49151bb1,
+        type: 3}
+    - target: {fileID: 5974083323995034648, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Aguilucho_ Geranoaetus polyosoma '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974083325820167838, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: "Mide entre 45 y 62 cm de largo. Posee un claro dimorfismo sexual; el
+        macho posee un dorso gris y un vientre blanco generalmente, aunque existe
+        un morfo completamente gris\xE1ceo.4 La hembra se distingue por tener los
+        hombros y parte del dorso de color canela o rojizo, aunque a veces se ve
+        ese color en los inmaduros. La hembra tambi\xE9n puede presentan un morfo
+        oscuro. 4 Se le distingue por la cola blanca con rayas delgadas negras horizontales
+        y una banda negra subterminal en la cola."
+      objectReference: {fileID: 0}
+    - target: {fileID: 5974083325820167838, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: c3c3868f8cc4f59489b27f6c49151bb1,
+        type: 3}
+    - target: {fileID: 5974083325820167838, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Aguilucho_ Geranoaetus polyosoma '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6743694489951705280, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6743694489951705280, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: e6511f43708ce624aad524d78c2226e4,
+        type: 3}
+    - target: {fileID: 6743694489951705280, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_ Ara Macao '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6743694490520690387, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: texto
+      value: Llega a alcanzar 90 cm de longitud y 1kg de peso. Se distingue por su
+        plumaje de colores vivos, que es principalmente rojo escarlata, complementado
+        con algunas plumas azules y amarillas con verde que inician desde las alas
+        hasta su cola.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6743694490520690387, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: imagen
+      value: 
+      objectReference: {fileID: 21300000, guid: e6511f43708ce624aad524d78c2226e4,
+        type: 3}
+    - target: {fileID: 6743694490520690387, guid: 630782c64fa794641ab7bbbb83a7a67b,
+        type: 3}
+      propertyPath: titulo
+      value: 'Guacamaya bandera_ Ara Macao '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 630782c64fa794641ab7bbbb83a7a67b, type: 3}
