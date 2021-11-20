@@ -3,7 +3,12 @@ guid: 813c58d31d0f2c24a935aa6f75bb44ab
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasamanos
+    second: {fileID: 2100000, guid: 5eed5914e59bc6a408345e5cd7d99ad3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

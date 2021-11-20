@@ -3,7 +3,72 @@ guid: 669734b6ea25e504c9e0e88bc6e89683
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcretoBlanco
+    second: {fileID: 2100000, guid: 6f9d627f0c944fe43b063def9f73fca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConcretoGris
+    second: {fileID: 2100000, guid: 8881f07933d10474ea958f6909a583d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EscalasConcreto
+    second: {fileID: 2100000, guid: 91fcfea0cebc5864ba8163ef457d4496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MuroVentanal
+    second: {fileID: 2100000, guid: a83324741f56fe24fb30211cb3f1863e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PisoBaldosa
+    second: {fileID: 2100000, guid: 649e4aad82df40646a228ad1c1bccc4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuertaRack
+    second: {fileID: 2100000, guid: 0e55719068b5e154d98c81f815118616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VentanasSolas
+    second: {fileID: 2100000, guid: 0d078c4868c0dac4b82e918568c9b885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cafetransparencia
+    second: {fileID: 2100000, guid: 84935ba4f123791489e209c7998af746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 637e532c353a91341a09c495318f7b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: 89137b9aee3204b4ab5a4d26273aaede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: 9bd7bf60eb19d714f8aeeea63bad1bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera
+    second: {fileID: 2100000, guid: ba219ec8ad380ef4b94036abed163675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasamanos_parque_tech
+    second: {fileID: 2100000, guid: 5eed5914e59bc6a408345e5cd7d99ad3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -85,7 +150,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 20
+    globalScale: 2000
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
