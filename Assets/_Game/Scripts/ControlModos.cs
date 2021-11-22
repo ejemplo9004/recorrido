@@ -19,7 +19,7 @@ public class ControlModos : MonoBehaviour
     private void Awake()
     {
         singleton = this;
-        Time.timeScale = 3;
+        //Time.timeScale = 3;
     }
 
     void Update()
