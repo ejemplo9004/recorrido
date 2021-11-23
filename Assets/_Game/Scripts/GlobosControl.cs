@@ -26,6 +26,7 @@ public class GlobosControl : MonoBehaviour
                 Reescalar(Vector3.one);
                 break;
             case 1:
+                pos0 = tGlobos.position;
                 tGlobos.position = pos1;
                 Reescalar(Vector3.one * 10);
                 break;
