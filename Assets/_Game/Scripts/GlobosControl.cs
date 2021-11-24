@@ -14,6 +14,7 @@ public class GlobosControl : MonoBehaviour
     private void Awake()
     {
         singleton = this;
+        pos0 = tGlobos.position;
     }
 
     public void CambiarModo(int cual)
@@ -26,7 +27,7 @@ public class GlobosControl : MonoBehaviour
                 Reescalar(Vector3.one);
                 break;
             case 1:
-                pos0 = tGlobos.position;
+                //pos0 = tGlobos.position;
                 tGlobos.position = pos1;
                 Reescalar(Vector3.one * 10);
                 break;

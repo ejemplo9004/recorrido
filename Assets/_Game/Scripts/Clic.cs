@@ -7,10 +7,21 @@ public class Clic : MonoBehaviour
 {
     public bool sobreSiMismo;
     public UnityEvent evento;
+    float tiempo;
 
-    void Update()
+	private void Start()
+	{
+        //tiempo = Time.time + 0.2f;
+	}
+
+    public void AgendarEspacio()
+	{
+        tiempo = Time.time + 1;
+	}
+
+	void Update()
     {
-        if (!sobreSiMismo && Input.GetMouseButtonDown(0))
+        if (!sobreSiMismo && Input.GetMouseButtonDown(0) && Time.time > tiempo)
         {
             evento.Invoke();
         }
@@ -18,7 +29,7 @@ public class Clic : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if (sobreSiMismo )
+        if (sobreSiMismo && Time.time > tiempo)
         {
             evento.Invoke();
         }

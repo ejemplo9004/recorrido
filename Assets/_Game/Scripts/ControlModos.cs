@@ -36,6 +36,14 @@ public class ControlModos : MonoBehaviour
                 //Cursor.lockState = CursorLockMode.None;
             }
         }
+        if (Input.GetKeyDown(KeyCode.L))
+        {
+            Time.timeScale = 10;
+        }
+        if (Input.GetKeyUp(KeyCode.L))
+        {
+            Time.timeScale = 1;
+        }
     }
 
     public void OcutarMenu()
