@@ -127,8 +127,8 @@ public class vThirdPersonCamera : MonoBehaviour
     public void RotateCamera(float x, float y)
     {
         // free rotation 
-        mouseX += x * xMouseSensitivity;
-        mouseY -= y * yMouseSensitivity;
+        mouseX += x * xMouseSensitivity * Rotar360.fueraDe360;
+        mouseY -= y * yMouseSensitivity * Rotar360.fueraDe360;
 
         movementSpeed.x = x;
         movementSpeed.y = -y;

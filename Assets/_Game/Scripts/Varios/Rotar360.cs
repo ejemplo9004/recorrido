@@ -12,6 +12,7 @@ public class Rotar360 : MonoBehaviour
 
     public static Rotar360 singleton;
     public bool activo = true;
+    public static float fueraDe360 = 1;
 
     public MeshRenderer mr;
     public Texture2D[] fondos; 
@@ -53,5 +54,13 @@ public class Rotar360 : MonoBehaviour
         AsignarFondo(c);
         activo = ac;
         camara.gameObject.SetActive(ac);
+		if (ac)
+		{
+            fueraDe360 = 0;
+		}
+		else
+		{
+            fueraDe360 = 1;
+		}
 	}
 }
