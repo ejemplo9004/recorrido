@@ -23320,7 +23320,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a37336b12accbad47a6587304400a65e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8.221
+      value: 8.347
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a37336b12accbad47a6587304400a65e,
         type: 3}
@@ -23386,7 +23386,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.45, y: 0.46583384, z: 1.0026459}
+  m_Size: {x: 0.69, y: 0.59, z: 1.4}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &943639232
 PrefabInstance:
